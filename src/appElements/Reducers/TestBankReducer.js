@@ -100,7 +100,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "The purposes of the <span style=\"font-style:italic;\" >Standards</span> include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The purposes of the  include all of the following ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -109,22 +109,22 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Establishing the basis for the measurement of internal audit performance.",
-                    explanation: "Establishing the basis for the evaluation of internal audit performance is a stated purpose of the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Establishing the basis for the evaluation of internal audit performance is a stated purpose of the Standards."
                 },
                 {
                     id: 2,
                     text: "Guiding the ethical conduct of internal auditors.",
-                    explanation: "Guiding the ethical conduct of internal auditors is the purpose of the Code of Ethics, not the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Guiding the ethical conduct of internal auditors is the purpose of the Code of Ethics, not the Standards."
                 },
                 {
                     id: 3,
                     text: "Guiding adherence to the mandatory elements of the IPPF.",
-                    explanation: "Guiding adherence to the mandatory elements of the IPPF is a stated purpose of the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Guiding adherence to the mandatory elements of the IPPF is a stated purpose of the Standards."
                 },
                 {
                     id: 4,
                     text: "Fostering improved organizational processes and operations.",
-                    explanation: "Fostering improved organizational processes and operations is a stated purpose of the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Fostering improved organizational processes and operations is a stated purpose of the Standards."
                 }
             ]
         },
@@ -164,7 +164,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "One of the purposes of the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> (&#8220;the <span style=\"font-style:italic;\" >Standards</span>&#8221;) is to",
+            q: "One of the purposes of the International Standards for the Professional Practice of Internal Auditing (&#8220;the Standards&#8221;) is to",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -173,7 +173,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Encourage the professionalization of internal auditing.",
-                    explanation: "The professionalization of internal auditing is important but is not a direct purpose of the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "The professionalization of internal auditing is important but is not a direct purpose of the Standards."
                 },
                 {
                     id: 2,
@@ -183,12 +183,12 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Encourage external auditors to make more extensive use of the work of internal auditors.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> do not formally encourage external auditors to make more extensive use of the work of internal auditors."
+                    explanation: "The Standards do not formally encourage external auditors to make more extensive use of the work of internal auditors."
                 },
                 {
                     id: 4,
                     text: "Establish the basis for evaluating internal auditing performance.",
-                    explanation: "The IIA provides the following purposes of the <span style=\"font-style:italic;\" >Standards</span>:<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Guide adherence with the mandatory elements of the IPPF.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Provide a framework for performing and promoting a broad range of value-added internal audit activities. </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Establish the basis for evaluating internal auditing performance.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Foster improved organizational processes and operations.</li></ol>"
+                    explanation: "The IIA provides the following purposes of the Standards:<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Guide adherence with the mandatory elements of the IPPF.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Provide a framework for performing and promoting a broad range of value-added internal audit activities. </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Establish the basis for evaluating internal auditing performance.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Foster improved organizational processes and operations.</li></ol>"
                 }
             ]
         },
@@ -229,7 +229,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "An internal auditor often faces special problems when performing an engagement at a foreign subsidiary. Which of the following statements is <span style=\"font-weight:bold;\" >false</span> with respect to the conduct of international engagements?",
+            q: "An internal auditor often faces special problems when performing an engagement at a foreign subsidiary. Which of the following statements is false with respect to the conduct of international engagements?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -237,8 +237,8 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "The IIA <span style=\"font-style:italic;\" >Standards</span> do not apply outside of the United States.",
-                    explanation: "Pronouncements by The IIA have no geographic limits. Compliance with the concepts in the <span style=\"font-style:italic;\" >Standards</span> is essential for the responsibilities of internal auditors to be met, regardless of the national environment."
+                    text: "The IIA Standards do not apply outside of the United States.",
+                    explanation: "Pronouncements by The IIA have no geographic limits. Compliance with the concepts in the Standards is essential for the responsibilities of internal auditors to be met, regardless of the national environment."
                 },
                 {
                     id: 2,
@@ -325,7 +325,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "According to The IIA&#8217;s International Professional Practices Framework, which of the following constitute mandatory guidance for implementing the <span style=\"font-style:italic;\" >Standards</span>?",
+            q: "According to The IIA&#8217;s International Professional Practices Framework, which of the following constitute mandatory guidance for implementing the Standards?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -453,7 +453,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "The Core Principles for the Professional Practice of Internal Auditing are the basis for internal audit effectiveness. Which of the following is <span style=\"font-weight:bold;\" >not</span> a core principle?",
+            q: "The Core Principles for the Professional Practice of Internal Auditing are the basis for internal audit effectiveness. Which of the following is not a core principle?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -581,7 +581,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Applicable Guidance",
 
-            q: "All of the following activities would be considered consulting services <span style=\"font-weight:bold;\" >except</span>",
+            q: "All of the following activities would be considered consulting services except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -613,7 +613,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Codes of Ethical Conduct for Professionals",
 
-            q: "A formal code of ethics should do all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "A formal code of ethics should do all of the following except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -645,7 +645,7 @@ let initialStore = {
             General: "Foundations of Internal Auditing",
             topicName: "Codes of Ethical Conduct for Professionals",
 
-            q: "A typical code of ethical conduct for financial managers or management accountants in an organization requires all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "A typical code of ethical conduct for financial managers or management accountants in an organization requires all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -830,7 +830,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "A basis for the measurement of internal audit performance.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> establish a basis for the measurement of internal audit performance."
+                    explanation: "The Standards establish a basis for the measurement of internal audit performance."
                 }
             ]
         },
@@ -966,7 +966,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Introduction and Principles",
-            q: "An internal auditor who encounters an ethical dilemma <span style=\"font-weight:bold;\" >not</span> explicitly addressed by The IIA&#8217;s Code of Ethics should always",
+            q: "An internal auditor who encounters an ethical dilemma not explicitly addressed by The IIA&#8217;s Code of Ethics should always",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -1295,7 +1295,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Knowledge, skills, and competencies.",
-                    explanation: "Knowledge, skills, and competencies are mentioned in the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Knowledge, skills, and competencies are mentioned in the Standards."
                 },
                 {
                     id: 4,
@@ -1331,7 +1331,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "Did not violate the Code of Ethics. Conclusive information about wrongdoing was not gathered.",
-                    explanation: "The internal auditor should have collected and reported such information in accordance with the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "The internal auditor should have collected and reported such information in accordance with the Standards."
                 }
             ]
         },
@@ -1388,7 +1388,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Not accept anything that may impair or be presumed to impair their professional judgment.",
-                    explanation: "Rule of <span style=\"white-space:nowrap;\" >Conduct 2.2 </span>under the objectivity principle states, &#8220;Internal auditors shall not accept anything that may impair or be presumed to impair their professional judgment.&#8221; "
+                    explanation: "Rule of Conduct 2.2under the objectivity principle states, &#8220;Internal auditors shall not accept anything that may impair or be presumed to impair their professional judgment.&#8221; "
                 },
                 {
                     id: 4,
@@ -1772,7 +1772,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Objectivity",
-            q: "Which of the following statements is <span style=\"font-weight:bold;\" >not</span> appropriate to include in a manufacturer&#8217;s conflict of interest policy? An employee shall not",
+            q: "Which of the following statements is not appropriate to include in a manufacturer&#8217;s conflict of interest policy? An employee shall not",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -1958,7 +1958,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Objectivity",
-            q: "Internal auditors should be prudent in their relationships with persons and organizations external to their employers. Which of the following activities will most likely <span style=\"font-weight:bold;\" >not</span> adversely affect internal auditors&#8217; ethical behavior?",
+            q: "Internal auditors should be prudent in their relationships with persons and organizations external to their employers. Which of the following activities will most likely not adversely affect internal auditors&#8217; ethical behavior?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -2126,17 +2126,17 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "Are in violation of the <span style=\"font-style:italic;\" >Standards</span> because the internal auditor did not properly follow up on a red flag that might indicate the existence of fraud.",
+                    text: "Are in violation of the Standards because the internal auditor did not properly follow up on a red flag that might indicate the existence of fraud.",
                     explanation: "The internal auditor did not withhold information but properly followed up with the chief audit executive upon learning of the information."
                 },
                 {
                     id: 3,
-                    text: "Are not in violation of either The IIA&#8217;s Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: " Rule of Conduct 2.3 under the objectivity principle states, &#8220;Internal auditors shall disclose all material facts known to them that, if not disclosed, may distort the reporting of activities under review.&#8221; Attribute Standard 1120 states, &#8220;Internal auditors must have an impartial, unbiased attitude and avoid any conflict of interest.&#8221; The internal auditor did not withhold information and properly followed up with the chief audit executive upon learning of the information. The IIA&#8217;s Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span> therefore were not violated."
+                    text: "Are not in violation of either The IIA&#8217;s Code of Ethics or the Standards.",
+                    explanation: " Rule of Conduct 2.3 under the objectivity principle states, &#8220;Internal auditors shall disclose all material facts known to them that, if not disclosed, may distort the reporting of activities under review.&#8221; Attribute Standard 1120 states, &#8220;Internal auditors must have an impartial, unbiased attitude and avoid any conflict of interest.&#8221; The internal auditor did not withhold information and properly followed up with the chief audit executive upon learning of the information. The IIA&#8217;s Code of Ethics and the Standards therefore were not violated."
                 },
                 {
                     id: 4,
-                    text: "Are in violation of The IIA&#8217;s Code of Ethics for withholding meaningful information and are in violation of the <span style=\"font-style:italic;\" >Standards</span> because the internal auditor did not properly follow up on a red flag that might indicate the existence of fraud.",
+                    text: "Are in violation of The IIA&#8217;s Code of Ethics for withholding meaningful information and are in violation of the Standards because the internal auditor did not properly follow up on a red flag that might indicate the existence of fraud.",
                     explanation: "The internal auditor did not withhold information but properly followed up with the chief audit executive upon learning of the information."
                 }
             ]
@@ -2245,12 +2245,12 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "Has not violated The IIA&#8217;s Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> because confidentiality takes precedence over all other standards.",
+                    text: "Has not violated The IIA&#8217;s Code of Ethics or the Standards because confidentiality takes precedence over all other standards.",
                     explanation: "Reporting a possible irregularity to the appropriate organizational authorities is not a breach of the duty of confidentiality owed to the organization."
                 },
                 {
                     id: 2,
-                    text: "Has not violated The IIA&#8217;s Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> because the internal auditor is committed to answering all questions fully and truthfully.",
+                    text: "Has not violated The IIA&#8217;s Code of Ethics or the Standards because the internal auditor is committed to answering all questions fully and truthfully.",
                     explanation: "The internal auditor has an affirmative duty to report the results of his or her work."
                 },
                 {
@@ -2260,7 +2260,7 @@ let initialStore = {
                 },
                 {
                     id: 4,
-                    text: "Has violated the <span style=\"font-style:italic;\" >Standards</span> because the internal auditor should inform the appropriate authorities in the organization if fraud may be indicated.",
+                    text: "Has violated the Standards because the internal auditor should inform the appropriate authorities in the organization if fraud may be indicated.",
                     explanation: "The internal auditor should inform the appropriate authorities in the organization if the indicators of the commission of a fraud are sufficient to recommend an investigation. Thus, the internal auditor has a duty to act even though the available facts do not prove that an irregularity has occurred. Moreover, Rule of Conduct 2.3 states, &#8220;Internal auditors shall disclose all material facts known to them that, if not disclosed, may distort the reporting of activities under review.&#8221;"
                 }
             ]
@@ -2299,7 +2299,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Objectivity",
-            q: "During the course of an engagement, an internal auditor discovered that a research and development employee has been patenting new developments that are unrelated to the basic business of the organization. The organization does not have a specific policy addressing patents on developments that are not related to its basic business, but it has a general policy that all important new discoveries by employees are the property of the organization. The employee is considered one of the most prestigious in the field. The employee&#8217;s actions have been condoned by local management as an extra incentive to keep the employee at the lab. A decision <span style=\"font-weight:bold;\" >not</span> to report the employee&#8217;s action is",
+            q: "During the course of an engagement, an internal auditor discovered that a research and development employee has been patenting new developments that are unrelated to the basic business of the organization. The organization does not have a specific policy addressing patents on developments that are not related to its basic business, but it has a general policy that all important new discoveries by employees are the property of the organization. The employee is considered one of the most prestigious in the field. The employee&#8217;s actions have been condoned by local management as an extra incentive to keep the employee at the lab. A decision not to report the employee&#8217;s action is",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -2312,8 +2312,8 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "A violation of the reporting requirements in the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "Failing to report the violation of organizational policy is contrary to the <span style=\"font-style:italic;\" >Standards</span>."
+                    text: "A violation of the reporting requirements in the Standards.",
+                    explanation: "Failing to report the violation of organizational policy is contrary to the Standards."
                 },
                 {
                     id: 3,
@@ -2322,8 +2322,8 @@ let initialStore = {
                 },
                 {
                     id: 4,
-                    text: "Both a violation of The IIA&#8217;s Code of Ethics AND a violation of the reporting requirements in the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "Under the <span style=\"font-style:italic;\" >Standards</span>, internal auditors should communicate engagement results. Rule of Conduct 4.2 states, &#8220;Internal auditors shall perform internal auditing services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.&#8221; Rule of Conduct 2.3 under the objectivity principle states, &#8220;Internal auditors shall disclose all material facts known to them that, if not disclosed, may distort the reporting of activities under review.&#8221; Hence, the failure to report violates The IIA&#8217;s Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span>."
+                    text: "Both a violation of The IIA&#8217;s Code of Ethics AND a violation of the reporting requirements in the Standards.",
+                    explanation: "Under the Standards, internal auditors should communicate engagement results. Rule of Conduct 4.2 states, &#8220;Internal auditors shall perform internal auditing services in accordance with the International Standards for the Professional Practice of Internal Auditing.&#8221; Rule of Conduct 2.3 under the objectivity principle states, &#8220;Internal auditors shall disclose all material facts known to them that, if not disclosed, may distort the reporting of activities under review.&#8221; Hence, the failure to report violates The IIA&#8217;s Code of Ethics and the Standards."
                 }
             ]
         },
@@ -2628,7 +2628,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "To save organizational resources, the CAE limits procedures at foreign branches to confirmations from branch managers that no major personnel changes have occurred.",
-                    explanation: "According to Rule of Conduct&#160;4.2, &#8220;Internal auditors shall perform internal audit services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing (Standards)</span>.&#8221; The <span style=\"font-style:italic;\" >Standards</span> require supporting information to be sufficient, reliable, relevant, and useful."
+                    explanation: "According to Rule of Conduct&#160;4.2, &#8220;Internal auditors shall perform internal audit services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing (Standards)</span>.&#8221; The Standards require supporting information to be sufficient, reliable, relevant, and useful."
                 },
                 {
                     id: 4,
@@ -2702,7 +2702,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Confidentiality",
-            q: "Which situation most likely violates The IIA&#8217;s Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span>?",
+            q: "Which situation most likely violates The IIA&#8217;s Code of Ethics and the Standards?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -2726,7 +2726,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "Because the internal audit activity lacks skill and knowledge in a specialty area, the chief audit executive (CAE) has hired an expert. The engagement manager has been asked to review the expert&#8217;s approach to the assignment. Although knowledgeable about the area under review, the manager is hesitant to accept the assignment because of lack of expertise.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> allow use of experts when needed."
+                    explanation: "The Standards allow use of experts when needed."
                 }
             ]
         },
@@ -2933,8 +2933,8 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "Comply with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.",
-                    explanation: "The IIA&#8217;s Code of Ethics applies not only to individuals but also to entities that provide internal auditing services. Rule of Conduct 4.2 under the competency principle states, &#8220;Internal auditors shall perform internal audit services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.&#8221;"
+                    text: "Comply with the International Standards for the Professional Practice of Internal Auditing.",
+                    explanation: "The IIA&#8217;s Code of Ethics applies not only to individuals but also to entities that provide internal auditing services. Rule of Conduct 4.2 under the competency principle states, &#8220;Internal auditors shall perform internal audit services in accordance with the International Standards for the Professional Practice of Internal Auditing.&#8221;"
                 },
                 {
                     id: 3,
@@ -2944,7 +2944,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "Participate in a formal continuing education program.",
-                    explanation: "The Code requires compliance with the <span style=\"font-style:italic;\" >Standards</span>, and the <span style=\"font-style:italic;\" >Standards</span> require internal auditors to enhance their knowledge, skills, and other competencies through continuing professional development, but neither the Code nor the <span style=\"font-style:italic;\" >Standards</span> require formal continuing education."
+                    explanation: "The Code requires compliance with the Standards, and the Standards require internal auditors to enhance their knowledge, skills, and other competencies through continuing professional development, but neither the Code nor the Standards require formal continuing education."
                 }
             ]
         },
@@ -2959,23 +2959,23 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "The internal audit activity violated the <span style=\"font-style:italic;\" >Standards</span> by hiring an internal auditor without proficiency in the area.",
+                    text: "The internal audit activity violated the Standards by hiring an internal auditor without proficiency in the area.",
                     explanation: "All internal auditors need not be proficient in all areas. The internal audit activity as a whole should have an appropriate mix of skills."
                 },
                 {
                     id: 2,
-                    text: "The internal audit activity violated the <span style=\"font-style:italic;\" >Standards</span> by not providing adequate supervision.",
-                    explanation: "Rule of Conduct 4.2 under the competency principle requires internal auditing services to be performed in accordance with the <span style=\"font-style:italic;\" >Standards</span>. Attr.&#160;Std.&#160;1200 requires engagements to be performed with proficiency and due professional care. They also should be properly supervised to ensure that objectives are achieved, quality is assured, and staff is developed (Perf.&#160;Std.&#160;2340)."
+                    text: "The internal audit activity violated the Standards by not providing adequate supervision.",
+                    explanation: "Rule of Conduct 4.2 under the competency principle requires internal auditing services to be performed in accordance with the Standards. Attr.&#160;Std.&#160;1200 requires engagements to be performed with proficiency and due professional care. They also should be properly supervised to ensure that objectives are achieved, quality is assured, and staff is developed (Perf.&#160;Std.&#160;2340)."
                 },
                 {
                     id: 3,
                     text: "The chief audit executive has not violated The IIA&#8217;s Code of Ethics because it does not address supervision.",
-                    explanation: "The Code requires compliance with the <span style=\"font-style:italic;\" >Standards</span>, and the <span style=\"font-style:italic;\" >Standards</span> require proper supervision."
+                    explanation: "The Code requires compliance with the Standards, and the Standards require proper supervision."
                 },
                 {
                     id: 4,
-                    text: "The <span style=\"font-style:italic;\" >Standards</span> and The IIA&#8217;s Code of Ethics were followed by the internal audit activity.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> and the Code were not followed."
+                    text: "The Standards and The IIA&#8217;s Code of Ethics were followed by the internal audit activity.",
+                    explanation: "The Standards and the Code were not followed."
                 }
             ]
         },
@@ -3057,13 +3057,13 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "They should comply with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.",
-                    explanation: "Rule of Conduct 4.2 under the competency principle states, &#8220;Internal auditors shall perform internal audit services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.&#8221; Because the internal auditors are members of The Institute, The IIA&#8217;s Code of Ethics is enforceable against them even though they are not CIAs."
+                    text: "They should comply with the International Standards for the Professional Practice of Internal Auditing.",
+                    explanation: "Rule of Conduct 4.2 under the competency principle states, &#8220;Internal auditors shall perform internal audit services in accordance with the International Standards for the Professional Practice of Internal Auditing.&#8221; Because the internal auditors are members of The Institute, The IIA&#8217;s Code of Ethics is enforceable against them even though they are not CIAs."
                 },
                 {
                     id: 3,
-                    text: "They must respect the legitimate and ethical objectives of the organization and ignore the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "Internal auditors should respect and contribute to the legitimate and ethical objectives of the organization, but an IIA member, a holder of an IIA professional certification, or a candidate for certification may be liable for disciplinary action for failure to adhere to the <span style=\"font-style:italic;\" >Standards</span>."
+                    text: "They must respect the legitimate and ethical objectives of the organization and ignore the Standards.",
+                    explanation: "Internal auditors should respect and contribute to the legitimate and ethical objectives of the organization, but an IIA member, a holder of an IIA professional certification, or a candidate for certification may be liable for disciplinary action for failure to adhere to the Standards."
                 },
                 {
                     id: 4,
@@ -3106,7 +3106,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Ethics -- Competency",
-            q: "A manufacturing organization often hires recent college graduates to fill entry level internal auditor positions. Which of the following would <span style=\"font-weight:bold;\" >not</span> support the organization&#8217;s commitment to the Rule of Conduct for competency?",
+            q: "A manufacturing organization often hires recent college graduates to fill entry level internal auditor positions. Which of the following would not support the organization&#8217;s commitment to the Rule of Conduct for competency?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -3213,7 +3213,7 @@ let initialStore = {
                 {
                     id: 2,
                     text: "The organization has downsized and has a very lean staff. The board has recently approved the deferral of all continuing education for the next 12 months due to the staff&#8217;s workload.",
-                    explanation: "The IIA&#8217;s Rules of Conduct for competency state, &#8220;Internal auditors shall engage only in those services for which they have the necessary knowledge, skills, and experience, shall perform internal audit services in accordance with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> and shall continually improve their proficiency and the effectiveness and quality of their services.&#8221; The deferral of completing continued education, even though approved by the board, violates The IIA&#8217;s Code of Ethics Rule of Conduct for competency."
+                    explanation: "The IIA&#8217;s Rules of Conduct for competency state, &#8220;Internal auditors shall engage only in those services for which they have the necessary knowledge, skills, and experience, shall perform internal audit services in accordance with the International Standards for the Professional Practice of Internal Auditing and shall continually improve their proficiency and the effectiveness and quality of their services.&#8221; The deferral of completing continued education, even though approved by the board, violates The IIA&#8217;s Code of Ethics Rule of Conduct for competency."
                 },
                 {
                     id: 3,
@@ -3239,7 +3239,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Sufficient, reliable, relevant, and useful information lends credibility to the opinion.",
-                    explanation: "Engagements must be performed with proficiency and due professional care (Attr. Std. 1200), and the engagement results must be communicated (Perf. Std.&#160;2400). Engagement results include observations, conclusions, opinions, recommendations, and action plans. If internal auditors expressed opinions or otherwise communicated engagement results without substantive investigation and compliance with the <span style=\"font-style:italic;\" >Standards</span>, such communications would be meaningless. The <span style=\"font-style:italic;\" >Standards</span> are therefore incorporated by reference into The IIA&#8217;s Code of Ethics by Rule of Conduct 4.2. Thus, internal auditors must identify sufficient, reliable, relevant, and useful information to achieve the engagement&#8217;s objectives (Perf. Std. 2310)."
+                    explanation: "Engagements must be performed with proficiency and due professional care (Attr. Std. 1200), and the engagement results must be communicated (Perf. Std.&#160;2400). Engagement results include observations, conclusions, opinions, recommendations, and action plans. If internal auditors expressed opinions or otherwise communicated engagement results without substantive investigation and compliance with the Standards, such communications would be meaningless. The Standards are therefore incorporated by reference into The IIA&#8217;s Code of Ethics by Rule of Conduct 4.2. Thus, internal auditors must identify sufficient, reliable, relevant, and useful information to achieve the engagement&#8217;s objectives (Perf. Std. 2310)."
                 },
                 {
                     id: 2,
@@ -3274,8 +3274,8 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "Senior management and the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> cannot provide actual authority to an internal audit activity."
+                    text: "Senior management and the Standards.",
+                    explanation: "The Standards cannot provide actual authority to an internal audit activity."
                 },
                 {
                     id: 3,
@@ -3398,7 +3398,7 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "The <span style=\"font-style:italic;\" >Standards</span>.",
+                    text: "The Standards.",
                     explanation: "The internal audit activity&#8217;s authority is defined in a charter approved by the board."
                 },
                 {
@@ -3447,7 +3447,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Charter",
-            q: "A charter is one of the more important factors positively affecting the internal audit activity&#8217;s independence. Which of the following is <span style=\"font-weight:bold;\" >least</span> likely to be part of the charter?",
+            q: "A charter is one of the more important factors positively affecting the internal audit activity&#8217;s independence. Which of the following is least likely to be part of the charter?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -3571,7 +3571,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Charter",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> true with regard to the internal audit charter?",
+            q: "Which of the following is not true with regard to the internal audit charter?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -3633,7 +3633,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Charter",
-            q: "Which one of the following is <span style=\"font-weight:bold;\" >not</span> included in the internal audit charter?",
+            q: "Which one of the following is not included in the internal audit charter?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -3719,14 +3719,14 @@ let initialStore = {
                 {
                     id: 4,
                     text: "A formal, written charter.",
-                    explanation: "The purpose, authority, and responsibility of the internal audit activity must be formally defined in a written charter, consistent with the Mission of Internal Audit and the mandatory elements of the IPPF (Core Principles), Definition of Internal Auditing, Code of Ethics, and <span style=\"font-style:italic;\" >Standards</span>. "
+                    explanation: "The purpose, authority, and responsibility of the internal audit activity must be formally defined in a written charter, consistent with the Mission of Internal Audit and the mandatory elements of the IPPF (Core Principles), Definition of Internal Auditing, Code of Ethics, and Standards. "
                 }
             ]
         },
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Charter",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> appropriate for inclusion in the internal audit charter? ",
+            q: "Which of the following is not appropriate for inclusion in the internal audit charter? ",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -3819,7 +3819,7 @@ let initialStore = {
         {
             General: "Foundations of Internal Auditing",
             topicName: "Internal Audit Charter",
-            q: "The internal audit charter includes all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The internal audit charter includes all of the following except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -4129,7 +4129,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Independence of the Internal Audit Activity (IAA)",
-            q: "When evaluating the independence of an internal audit activity, a quality assurance review team performing an external assessment considers several factors. Which of the following factors has the <span style=\"font-weight:bold;\" >least</span> amount of influence when judging an internal audit activity&#8217;s independence?",
+            q: "When evaluating the independence of an internal audit activity, a quality assurance review team performing an external assessment considers several factors. Which of the following factors has the least amount of influence when judging an internal audit activity&#8217;s independence?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -4160,7 +4160,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Independence of the Internal Audit Activity (IAA)",
-            q: " Which action is <span style=\"font-weight:bold;\" >not</span> consistent with functional reporting?",
+            q: " Which action is not consistent with functional reporting?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -4525,7 +4525,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "Functional reporting to the audit committee.",
-                    explanation: "The internal audit activity&#8217;s organizational independence is effectively achieved when it reports functionally to the board (Intr. Std. 1110) and administratively to senior management (IG 1110). The &#8220;&#8216;board&#8217; in the <span style=\"font-style:italic;\" >Standards </span>may refer to a committee or another body to which the governing body has delegated certain functions (e.g., an audit committee)&#8221; (The IIA Glossary). Thus, reporting functionally to the audit committee is the optimal reporting line to enhance the internal audit activity&#8217;s independence."
+                    explanation: "The internal audit activity&#8217;s organizational independence is effectively achieved when it reports functionally to the board (Intr. Std. 1110) and administratively to senior management (IG 1110). The &#8220;&#8216;board&#8217; in the Standards may refer to a committee or another body to which the governing body has delegated certain functions (e.g., an audit committee)&#8221; (The IIA Glossary). Thus, reporting functionally to the audit committee is the optimal reporting line to enhance the internal audit activity&#8217;s independence."
                 }
             ]
         },
@@ -4835,14 +4835,14 @@ let initialStore = {
                 {
                     id: 4,
                     text: "Define.",
-                    explanation: "The objectivity of internal auditors is defined by the <span style=\"font-style:italic;\" >Standards</span>. The interpretation of Standard 1100 (para. 2.2) states, &#8220;Objectivity is an unbiased mental attitude that allows internal auditors to perform engagements in such a manner that they believe in their work product and that no quality compromises are made.&#8221;"
+                    explanation: "The objectivity of internal auditors is defined by the Standards. The interpretation of Standard 1100 (para. 2.2) states, &#8220;Objectivity is an unbiased mental attitude that allows internal auditors to perform engagements in such a manner that they believe in their work product and that no quality compromises are made.&#8221;"
                 }
             ]
         },
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Objectivity of Internal Auditors",
-            q: "Which of the following statements about conflict of interest is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements about conflict of interest is false?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -4904,7 +4904,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "The internal auditors must be able to distinguish carefully between a scope limitation and other limitations. Which of the following is <span style=\"font-weight:bold;\" >not</span> considered a scope limitation?",
+            q: "The internal auditors must be able to distinguish carefully between a scope limitation and other limitations. Which of the following is not considered a scope limitation?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -4997,7 +4997,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "An internal auditor who had been supervisor of the accounts payable section should <span style=\"font-weight:bold;\" >not</span> perform an assurance review of that section",
+            q: "An internal auditor who had been supervisor of the accounts payable section should not perform an assurance review of that section",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -5161,7 +5161,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Should reject the offer and report it to the appropriate supervisor.",
-                    explanation: "An internal auditor is not to accept fees, gifts, or entertainment from an employee, client, customer, supplier, or business associate. Accepting a fee or gift may imply that the auditor&#8217;s objectivity has been impaired. Even though an engagement is not being conducted in the applicable area at that time, a future engagement may result in the appearance of impairment of objectivity. Thus, no consideration should be given to the engagement status as justification for receiving fees or gifts. The receipt of promotional items (such as pens, calendars, or samples) that are available to the general public and have minimal value do not hinder internal auditors&#8217; professional judgments. Impairment of independence or objectivity, in fact or appearance, must be disclosed to appropriate parties <span style=\"white-space:nowrap;\" >(Attr. Std.&#160;1130).</span>"
+                    explanation: "An internal auditor is not to accept fees, gifts, or entertainment from an employee, client, customer, supplier, or business associate. Accepting a fee or gift may imply that the auditor&#8217;s objectivity has been impaired. Even though an engagement is not being conducted in the applicable area at that time, a future engagement may result in the appearance of impairment of objectivity. Thus, no consideration should be given to the engagement status as justification for receiving fees or gifts. The receipt of promotional items (such as pens, calendars, or samples) that are available to the general public and have minimal value do not hinder internal auditors&#8217; professional judgments. Impairment of independence or objectivity, in fact or appearance, must be disclosed to appropriate parties (Attr. Std.&#160;1130)."
                 },
                 {
                     id: 2,
@@ -5617,7 +5617,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "Which of the following activities is <span style=\"font-weight:bold;\" >not</span> presumed to impair the objectivity of an internal auditor?<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Recommending standards of control for a new information system application</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Drafting procedures for running a new computer application to ensure that proper controls are installed</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Performing reviews of procedures for a new computer application before it is installed</li></ol>",
+            q: "Which of the following activities is not presumed to impair the objectivity of an internal auditor?<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Recommending standards of control for a new information system application</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Drafting procedures for running a new computer application to ensure that proper controls are installed</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Performing reviews of procedures for a new computer application before it is installed</li></ol>",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -5648,7 +5648,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "Reengineering is the thorough analysis, fundamental rethinking, and complete redesign of essential business processes. The intended result is a dramatic improvement in service, quality, speed, and cost. An internal auditor&#8217;s involvement in reengineering should include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "Reengineering is the thorough analysis, fundamental rethinking, and complete redesign of essential business processes. The intended result is a dramatic improvement in service, quality, speed, and cost. An internal auditor&#8217;s involvement in reengineering should include all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -5834,7 +5834,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "Which of the following would <span style=\"font-weight:bold;\" >not </span>be an appropriate responsibility for an internal audit activity? ",
+            q: "Which of the following would not be an appropriate responsibility for an internal audit activity? ",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -5927,7 +5927,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Impairment to Independence and Objectivity",
-            q: "A new regulation requires an organization to develop policies and risk management activities to ensure compliance. Because the organization has limited resources, the board authorizes the CAE to perform these activities. In this situation, which of the following is <span style=\"font-weight:bold;\" >least</span> likely to be a safeguard against potential impairment of independence or objectivity?",
+            q: "A new regulation requires an organization to develop policies and risk management activities to ensure compliance. Because the organization has limited resources, the board authorizes the CAE to perform these activities. In this situation, which of the following is least likely to be a safeguard against potential impairment of independence or objectivity?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -5977,7 +5977,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Ability to organize and express thoughts well.",
-                    explanation: "The internal audit activity can obtain and maintain the proficiency required by the <span style=\"font-style:italic;\" >Standards</span> if it effectively applies The IIA&#8217;s Global Internal Audit Competency Framework. One of the core competencies of the framework is communication. Accordingly, the success of an internal auditor will depend, in part, on the auditor&#8217;s ability to organize and express thoughts well. "
+                    explanation: "The internal audit activity can obtain and maintain the proficiency required by the Standards if it effectively applies The IIA&#8217;s Global Internal Audit Competency Framework. One of the core competencies of the framework is communication. Accordingly, the success of an internal auditor will depend, in part, on the auditor&#8217;s ability to organize and express thoughts well. "
                 },
                 {
                     id: 4,
@@ -5989,7 +5989,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Auditor Proficiency",
-            q: "A chief audit executive (CAE) for a very small internal audit department has just received a request from management to perform an audit of an extremely complex area in which the CAE and the department have no expertise. The nature of the audit engagement is within the scope of internal audit activities. Management has expressed a desire to have the engagement conducted in the very near future because of the high level of risk involved. Which of the following responses by the CAE would be in violation of the <span style=\"font-style:italic;\" >Standards</span>?",
+            q: "A chief audit executive (CAE) for a very small internal audit department has just received a request from management to perform an audit of an extremely complex area in which the CAE and the department have no expertise. The nature of the audit engagement is within the scope of internal audit activities. Management has expressed a desire to have the engagement conducted in the very near future because of the high level of risk involved. Which of the following responses by the CAE would be in violation of the Standards?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -6175,7 +6175,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Auditor Proficiency",
-            q: "The internal audit activity collectively must possess or obtain certain competencies, <span style=\"font-weight:bold;\" >excluding</span>",
+            q: "The internal audit activity collectively must possess or obtain certain competencies, excluding",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -6215,7 +6215,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Operating within the organization&#8217;s framework for governance, risk management, and control.",
-                    explanation: "The internal audit activity collectively must possess or obtain the knowledge, skills, and other competencies needed to perform its responsibilities <span style=\"white-space:nowrap;\" >(Attr. Std. 1210).</span> Operating within the organization&#8217;s framework for governance, risk management, and control is a detailed competency supporting the core competency of governance, risk, and control. This detailed competency is recommended for each broad job level (staff, manager, or CAE) of the internal audit activity."
+                    explanation: "The internal audit activity collectively must possess or obtain the knowledge, skills, and other competencies needed to perform its responsibilities (Attr. Std. 1210). Operating within the organization&#8217;s framework for governance, risk management, and control is a detailed competency supporting the core competency of governance, risk, and control. This detailed competency is recommended for each broad job level (staff, manager, or CAE) of the internal audit activity."
                 },
                 {
                     id: 2,
@@ -6246,7 +6246,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Provide staff with sufficient training to enhance communication skills.",
-                    explanation: "The internal audit activity can obtain and maintain the proficiency required by the <span style=\"font-style:italic;\" >Standards </span>if it effectively applies The IIA&#8217;s Global Internal Audit Competency Framework. One of the core competencies of the framework is communication. Accordingly, the internal audit staff should be provided with sufficient training to enhance communication skills. "
+                    explanation: "The internal audit activity can obtain and maintain the proficiency required by the Standards if it effectively applies The IIA&#8217;s Global Internal Audit Competency Framework. One of the core competencies of the framework is communication. Accordingly, the internal audit staff should be provided with sufficient training to enhance communication skills. "
                 },
                 {
                     id: 2,
@@ -6268,7 +6268,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Auditor Proficiency",
-            q: "The chief audit executive (CAE) is setting up a team to perform an assurance engagement on the organization&#8217;s information system security structure. The organization has offices all over the world that rely on the system. The audit team will assess risks, monitor implementation of corrective action, and evaluate controls. Which question does <span style=\"font-weight:bold;\" >not</span> require an answer when selecting the team to conduct this audit engagement? ",
+            q: "The chief audit executive (CAE) is setting up a team to perform an assurance engagement on the organization&#8217;s information system security structure. The organization has offices all over the world that rely on the system. The audit team will assess risks, monitor implementation of corrective action, and evaluate controls. Which question does not require an answer when selecting the team to conduct this audit engagement? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -6361,7 +6361,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "All of the following will help the CAE identify the available knowledge, skills, and competencies of the internal audit staff <span style=\"font-weight:bold;\" >except</span>",
+            q: "All of the following will help the CAE identify the available knowledge, skills, and competencies of the internal audit staff except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -6431,8 +6431,8 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "Reject the candidate because of the lack of knowledge required by the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> do not require each internal auditor to possess a knowledge of all relevant subjects."
+                    text: "Reject the candidate because of the lack of knowledge required by the Standards.",
+                    explanation: "The Standards do not require each internal auditor to possess a knowledge of all relevant subjects."
                 },
                 {
                     id: 2,
@@ -6578,7 +6578,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "Reasonable assurance should be obtained as to each prospective internal auditor&#8217;s qualifications and proficiency. Which of the following is the <span style=\"font-weight:bold;\" >least</span> useful application of this principle?",
+            q: "Reasonable assurance should be obtained as to each prospective internal auditor&#8217;s qualifications and proficiency. Which of the following is the least useful application of this principle?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -6640,7 +6640,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "When the engagement was assigned, management asked the internal auditor to evaluate the appropriateness of using self-insurance to minimize risk to the organization. Given the scope of the engagement requested by management, should the internal auditor engage an actuarial consultant to assist in the engagement if these skills do <span style=\"font-weight:bold;\" >not</span> exist on staff?",
+            q: "When the engagement was assigned, management asked the internal auditor to evaluate the appropriateness of using self-insurance to minimize risk to the organization. Given the scope of the engagement requested by management, should the internal auditor engage an actuarial consultant to assist in the engagement if these skills do not exist on staff?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -6702,7 +6702,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "An internal auditor&#8217;s objectivity could be compromised in all of the following situations <span style=\"font-weight:bold;\" >except</span>",
+            q: "An internal auditor&#8217;s objectivity could be compromised in all of the following situations except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -6795,7 +6795,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "The CAE must ensure that the internal audit activity is able to fulfill its responsibilities. All of the following are appropriate in achieving this objective <span style=\"font-weight:bold;\" >except</span>",
+            q: "The CAE must ensure that the internal audit activity is able to fulfill its responsibilities. All of the following are appropriate in achieving this objective except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -6835,7 +6835,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Follow guidance for obtaining external service providers.",
-                    explanation: "Regardless of the degree of outsourcing, services still must be performed in accordance with the <span style=\"font-style:italic;\" >Standards</span>. The main purpose of conducting staff performance appraisals is not to follow guidance for obtaining external service providers."
+                    explanation: "Regardless of the degree of outsourcing, services still must be performed in accordance with the Standards. The main purpose of conducting staff performance appraisals is not to follow guidance for obtaining external service providers."
                 },
                 {
                     id: 2,
@@ -6881,14 +6881,14 @@ let initialStore = {
                 {
                     id: 4,
                     text: "External service providers can provide the necessary knowledge, skills, and competencies to the internal audit activity.",
-                    explanation: "The CAE can obtain the necessary knowledge, skills, and competencies from external service providers if the internal audit staff is not able to fulfill internal audit responsibilities. Services still must be performed in accordance with the <span style=\"font-style:italic;\" >Standards</span>, regardless of the degree of outsourcing."
+                    explanation: "The CAE can obtain the necessary knowledge, skills, and competencies from external service providers if the internal audit staff is not able to fulfill internal audit responsibilities. Services still must be performed in accordance with the Standards, regardless of the degree of outsourcing."
                 }
             ]
         },
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal Audit Resources",
-            q: "Which of the following would <span style=\"font-weight:bold;\" >not</span> be permissible when outsourcing internal audit functions? ",
+            q: "Which of the following would not be permissible when outsourcing internal audit functions? ",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -6911,8 +6911,8 @@ let initialStore = {
                 },
                 {
                     id: 4,
-                    text: "Total external outsourcing on an ongoing basis where services are performed in accordance with the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "Partial or total external sourcing on an ongoing basis is an outsourcing alternative. Regardless of the degree of outsourcing, services still must be performed in accordance with the <span style=\"font-style:italic;\" >Standards</span>, and guidance for obtaining external service providers should be followed."
+                    text: "Total external outsourcing on an ongoing basis where services are performed in accordance with the Standards.",
+                    explanation: "Partial or total external sourcing on an ongoing basis is an outsourcing alternative. Regardless of the degree of outsourcing, services still must be performed in accordance with the Standards, and guidance for obtaining external service providers should be followed."
                 }
             ]
         },
@@ -7291,7 +7291,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Due Professional Care and Continuing Professional Development",
-            q: "Assurance engagements must be performed with proficiency and due professional care. Accordingly, the <span style=\"font-style:italic;\" >Standards</span> require internal auditors to <ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Consider the probability of significant noncompliance </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Perform assurance procedures with due professional care so that all significant risks are identified </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Weigh the cost of assurance against the benefits</li></ol>",
+            q: "Assurance engagements must be performed with proficiency and due professional care. Accordingly, the Standards require internal auditors to <ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Consider the probability of significant noncompliance </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Perform assurance procedures with due professional care so that all significant risks are identified </li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Weigh the cost of assurance against the benefits</li></ol>",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -7454,30 +7454,30 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "The <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span>.",
+                    text: "The International Standards for the Professional Practice of Internal Auditing.",
                     explanation: "The IIA&#8217;s Code of Ethics also is violated. Rule of Conduct&#160;4.3 under the competency principle states, &#8220;Internal auditors shall continually improve their proficiency and the effectiveness and quality of their services.&#8221;&#160;"
                 },
                 {
                     id: 2,
                     text: "The IIA&#8217;s Code of Ethics.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> also are violated because they require auditors to enhance their knowledge, skills, and other competencies through continuing professional development."
+                    explanation: "The Standards also are violated because they require auditors to enhance their knowledge, skills, and other competencies through continuing professional development."
                 },
                 {
                     id: 3,
-                    text: "Both the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> and The IIA&#8217;s Code of Ethics.",
-                    explanation: "Rule of Conduct&#160;4.3 under the competency principle states, &#8220;Internal auditors shall continually improve their proficiency and the effectiveness and quality of their services.&#8221; Furthermore, Attr.&#160;Std.&#160;1230 states, &#8220;Internal auditors must enhance their knowledge, skills, and other competencies through continuing professional development.&#8221; Thus, both The&#160;IIA&#8217;s Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span> are violated by failing to earn continuing education credits."
+                    text: "Both the International Standards for the Professional Practice of Internal Auditing and The IIA&#8217;s Code of Ethics.",
+                    explanation: "Rule of Conduct&#160;4.3 under the competency principle states, &#8220;Internal auditors shall continually improve their proficiency and the effectiveness and quality of their services.&#8221; Furthermore, Attr.&#160;Std.&#160;1230 states, &#8220;Internal auditors must enhance their knowledge, skills, and other competencies through continuing professional development.&#8221; Thus, both The&#160;IIA&#8217;s Code of Ethics and the Standards are violated by failing to earn continuing education credits."
                 },
                 {
                     id: 4,
                     text: "None of the answers are correct.",
-                    explanation: "Both the Code and the <span style=\"font-style:italic;\" >Standards</span> would be violated."
+                    explanation: "Both the Code and the Standards would be violated."
                 }
             ]
         },
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Due Professional Care and Continuing Professional Development",
-            q: "In an assurance engagement of treasury operations, an internal auditor is required to consider all of the following issues <span style=\"font-weight:bold;\" >except</span>",
+            q: "In an assurance engagement of treasury operations, an internal auditor is required to consider all of the following issues except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -7508,7 +7508,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Due Professional Care and Continuing Professional Development",
-            q: "Which of the following statements with regard to continuing professional development of internal auditors is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements with regard to continuing professional development of internal auditors is false?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -7570,7 +7570,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Due Professional Care and Continuing Professional Development",
-            q: "Certified internal auditors may obtain CPE credits through a variety of qualifying activities <span style=\"font-weight:bold;\" >except </span>",
+            q: "Certified internal auditors may obtain CPE credits through a variety of qualifying activities except ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -7651,7 +7651,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "1, 3, and 4 only.",
-                    explanation: "A quality assurance and improvement program (QAIP) is designed to provide reasonable assurance that the internal audit activity conforms with the <span style=\"font-style:italic;\" >Standards </span>and the Code of Ethics. QAIP processes include appropriate supervision, periodic internal assessments and ongoing monitoring of quality assurance, and periodic external assessments."
+                    explanation: "A quality assurance and improvement program (QAIP) is designed to provide reasonable assurance that the internal audit activity conforms with the Standards and the Code of Ethics. QAIP processes include appropriate supervision, periodic internal assessments and ongoing monitoring of quality assurance, and periodic external assessments."
                 },
                 {
                     id: 4,
@@ -7694,7 +7694,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Quality Assurance and Improvement Program (QAIP)",
-            q: "The chief audit executive should develop and maintain a quality assurance and improvement program that covers all aspects of the internal audit activity and continuously monitors its effectiveness. All of the following are included in a quality program <span style=\"font-weight:bold;\" >except</span>",
+            q: "The chief audit executive should develop and maintain a quality assurance and improvement program that covers all aspects of the internal audit activity and continuously monitors its effectiveness. All of the following are included in a quality program except",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -7725,7 +7725,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Quality Assurance and Improvement Program (QAIP)",
-            q: "Assessment of a quality assurance and improvement program should include evaluation of all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "Assessment of a quality assurance and improvement program should include evaluation of all of the following except",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -7738,8 +7738,8 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "Conformance with the <span style=\"font-style:italic;\" >Standards</span> and Code of Ethics.",
-                    explanation: "Conformance with the <span style=\"font-style:italic;\" >Standards</span> and Code of Ethics is an element of the assessment of a QAIP."
+                    text: "Conformance with the Standards and Code of Ethics.",
+                    explanation: "Conformance with the Standards and Code of Ethics is an element of the assessment of a QAIP."
                 },
                 {
                     id: 3,
@@ -7889,7 +7889,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "When the self-assessment has been validated by a qualified, independent, competent, and professional external assessor.",
-                    explanation: "Implementation Guide 1310 states, &#8220;External assessments provide an opportunity for an independent assessor or assessment team to conclude as to the internal audit activity&#8217;s conformance with the <span style=\"font-style:italic;\" >Standards</span> and whether internal auditors apply the Code of Ethics and to identify areas for improvement.The CAE is responsible for ensuring that the internal audit activity conducts an external assessment at least once every five years. A self-assessment may be performed in lieu of a full external assessment, provided it is validated by a qualified, independent, competent, and professional external assessor.&#8221;"
+                    explanation: "Implementation Guide 1310 states, &#8220;External assessments provide an opportunity for an independent assessor or assessment team to conclude as to the internal audit activity&#8217;s conformance with the Standards and whether internal auditors apply the Code of Ethics and to identify areas for improvement.The CAE is responsible for ensuring that the internal audit activity conducts an external assessment at least once every five years. A self-assessment may be performed in lieu of a full external assessment, provided it is validated by a qualified, independent, competent, and professional external assessor.&#8221;"
                 },
                 {
                     id: 2,
@@ -7903,7 +7903,7 @@ let initialStore = {
                 },
                 {
                     id: 4,
-                    text: "A self-assessment may not be performed in lieu of a full external assessment of the internal audit activity&#8217;s conformance with the <span style=\"font-style:italic;\" >Standards</span>.",
+                    text: "A self-assessment may not be performed in lieu of a full external assessment of the internal audit activity&#8217;s conformance with the Standards.",
                     explanation: "A self-assessment may be performed in lieu of a full external assessment when certain criteria are met."
                 }
             ]
@@ -7911,7 +7911,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Quality Assurance and Improvement Program (QAIP)",
-            q: "Internal assessments of the internal audit activity consist of all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "Internal assessments of the internal audit activity consist of all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -7950,8 +7950,8 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "Only to the internal audit activity&#8217;s conformance with the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "An opinion may be expressed on the <span style=\"font-style:italic;\" >Standards </span>and an assessment may be made for each standard or series of standards."
+                    text: "Only to the internal audit activity&#8217;s conformance with the Standards.",
+                    explanation: "An opinion may be expressed on the Standards and an assessment may be made for each standard or series of standards."
                 },
                 {
                     id: 2,
@@ -7965,8 +7965,8 @@ let initialStore = {
                 },
                 {
                     id: 4,
-                    text: "To conformance with the <span style=\"font-style:italic;\" >Standards</span> and an assessment for each standard.",
-                    explanation: "External assessments of an internal audit activity contain an expressed opinion or conclusion on overall conformance with the <span style=\"font-style:italic;\" >Standards</span> and possibly an assessment for each standard or series of standards. An external assessment also includes, as appropriate, recommendations (corrective action plans) for improvement. "
+                    text: "To conformance with the Standards and an assessment for each standard.",
+                    explanation: "External assessments of an internal audit activity contain an expressed opinion or conclusion on overall conformance with the Standards and possibly an assessment for each standard or series of standards. An external assessment also includes, as appropriate, recommendations (corrective action plans) for improvement. "
                 }
             ]
         },
@@ -8097,7 +8097,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal and External Assessments",
-            q: "External assessment of an internal audit activity is <span style=\"font-weight:bold;\" >not</span> likely to evaluate",
+            q: "External assessment of an internal audit activity is not likely to evaluate",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -8110,13 +8110,13 @@ let initialStore = {
                 },
                 {
                     id: 2,
-                    text: "Conformance with the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "Conformance with the <span style=\"font-style:italic;\" >Standards</span> is within the broad scope of coverage of the external assessment."
+                    text: "Conformance with the Standards.",
+                    explanation: "Conformance with the Standards is within the broad scope of coverage of the external assessment."
                 },
                 {
                     id: 3,
                     text: "Detailed cost-benefit analysis of the internal audit activity.",
-                    explanation: "The external assessment has a broad scope of coverage that includes (1) conformance with the Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span> evaluated by review of the internal audit activity&#8217;s charter, plans, policies, procedures, practices, and applicable legislative and regulatory requirements; (2)&#160;the expectations of the internal audit activity expressed by the board, senior management, and operational managers; and (3) the efficiency and effectiveness of the internal audit activity (IG 1312). However, the costs and benefits of internal auditing are neither easily quantifiable nor the subject of an external assessment."
+                    explanation: "The external assessment has a broad scope of coverage that includes (1) conformance with the Code of Ethics and the Standards evaluated by review of the internal audit activity&#8217;s charter, plans, policies, procedures, practices, and applicable legislative and regulatory requirements; (2)&#160;the expectations of the internal audit activity expressed by the board, senior management, and operational managers; and (3) the efficiency and effectiveness of the internal audit activity (IG 1312). However, the costs and benefits of internal auditing are neither easily quantifiable nor the subject of an external assessment."
                 },
                 {
                     id: 4,
@@ -8128,7 +8128,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal and External Assessments",
-            q: "The interpretation related to quality assurance given by the <span style=\"font-style:italic;\" >Standards</span> is that",
+            q: "The interpretation related to quality assurance given by the Standards is that",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -8137,7 +8137,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "External assessments can provide senior management and the board with independent assurance about the quality of the internal audit activity.",
-                    explanation: "External assessments provide an independent and objective evaluation of the internal audit activity&#8217;s compliance with the <span style=\"font-style:italic;\" >Standards</span> and Code of Ethics."
+                    explanation: "External assessments provide an independent and objective evaluation of the internal audit activity&#8217;s compliance with the Standards and Code of Ethics."
                 },
                 {
                     id: 2,
@@ -8147,7 +8147,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "The internal audit activity is primarily measured against The IIA&#8217;s Code of Ethics.",
-                    explanation: "The external assessment considers the internal audit activity&#8217;s conformance with the <span style=\"font-style:italic;\" >Standards</span> and the Code of Ethics. "
+                    explanation: "The external assessment considers the internal audit activity&#8217;s conformance with the Standards and the Code of Ethics. "
                 },
                 {
                     id: 4,
@@ -8159,7 +8159,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Internal and External Assessments",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not </span>true of quality assessments that are implemented according to IIA guidance?",
+            q: "Which of the following is not true of quality assessments that are implemented according to IIA guidance?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -8252,7 +8252,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Reporting on Quality Assurance",
-            q: "Internal auditors may include in their audit report that their activities conform with The IIA <span style=\"font-style:italic;\" >Standards</span>. They may use this statement only if",
+            q: "Internal auditors may include in their audit report that their activities conform with The IIA Standards. They may use this statement only if",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -8261,7 +8261,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "It is supported by the results of the quality program.",
-                    explanation: "The chief audit executive may state that the internal audit activity conforms with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> only if the results of the quality assurance and improvement program support this statement (Attr.&#160;Std.&#160;1321)."
+                    explanation: "The chief audit executive may state that the internal audit activity conforms with the International Standards for the Professional Practice of Internal Auditing only if the results of the quality assurance and improvement program support this statement (Attr.&#160;Std.&#160;1321)."
                 },
                 {
                     id: 2,
@@ -8307,7 +8307,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "After an external review completed within the past 5 years.",
-                    explanation: "The chief audit executive may state that the internal audit activity conforms with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> only if the results of the quality assurance and improvement program support this statement (Attr.&#160;Std.&#160;1321). The internal audit activity conforms with mandatory guidance when it achieves the outcomes described in the Code of Ethics and the <span style=\"font-style:italic;\" >Standards</span>. The results of the quality assurance and improvement program include the results of both internal and external assessments. All internal audit activities will have the results of internal assessments. Internal audit activities in existence for at least 5 years will also have the results of external assessments (Inter.&#160;Std.&#160;1321; Attr. Std. 1312). Thus, to use the phrase, the chief audit executive of an internal audit activity in existence for at least 5 years must have the results of an external assessment within that period."
+                    explanation: "The chief audit executive may state that the internal audit activity conforms with the International Standards for the Professional Practice of Internal Auditing only if the results of the quality assurance and improvement program support this statement (Attr.&#160;Std.&#160;1321). The internal audit activity conforms with mandatory guidance when it achieves the outcomes described in the Code of Ethics and the Standards. The results of the quality assurance and improvement program include the results of both internal and external assessments. All internal audit activities will have the results of internal assessments. Internal audit activities in existence for at least 5 years will also have the results of external assessments (Inter.&#160;Std.&#160;1321; Attr. Std. 1312). Thus, to use the phrase, the chief audit executive of an internal audit activity in existence for at least 5 years must have the results of an external assessment within that period."
                 }
             ]
         },
@@ -8359,7 +8359,7 @@ let initialStore = {
                 {
                     id: 2,
                     text: "The results of external assessments are communicated upon their completion.",
-                    explanation: "&#8220;To demonstrate conformance with the Definition of Internal Auditing and the <span style=\"font-style:italic;\" >Standards</span>, and application of the Code of Ethics, the results of external and periodic internal assessments are communicated upon completion of such assessments and the results of ongoing monitoring are communicated at least annually. The results include the assessor&#8217;s or assessment team&#8217;s evaluation with respect to the degree of conformance&#8221; (Inter.&#160;Std.&#160;1320)."
+                    explanation: "&#8220;To demonstrate conformance with the Definition of Internal Auditing and the Standards, and application of the Code of Ethics, the results of external and periodic internal assessments are communicated upon completion of such assessments and the results of ongoing monitoring are communicated at least annually. The results include the assessor&#8217;s or assessment team&#8217;s evaluation with respect to the degree of conformance&#8221; (Inter.&#160;Std.&#160;1320)."
                 },
                 {
                     id: 3,
@@ -8390,7 +8390,7 @@ let initialStore = {
                 {
                     id: 2,
                     text: "To provide accountability and transparency for the IAA&#8217;s operations.",
-                    explanation: "The CAE must communicate the results of the quality assurance and improvement program to senior management and the board (Attr. Std. 1320). Doing so demonstrates whether the internal audit activity (IAA) is in conformance with the Code of Ethics and the <span style=\"font-style:italic;\" >Standards </span>(Intr. Std. 1320) and therefore provides accountability and transparency for the IAA&#8217;s operations. "
+                    explanation: "The CAE must communicate the results of the quality assurance and improvement program to senior management and the board (Attr. Std. 1320). Doing so demonstrates whether the internal audit activity (IAA) is in conformance with the Code of Ethics and the Standards (Intr. Std. 1320) and therefore provides accountability and transparency for the IAA&#8217;s operations. "
                 },
                 {
                     id: 3,
@@ -8438,7 +8438,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Reporting on Quality Assurance",
-            q: "Which of the following is the appropriate response when nonconformance with the Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> impacts the overall scope or operation of the internal audit activity?",
+            q: "Which of the following is the appropriate response when nonconformance with the Code of Ethics or the Standards impacts the overall scope or operation of the internal audit activity?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -8452,24 +8452,24 @@ let initialStore = {
                 {
                     id: 2,
                     text: "The internal audit activity must reinforce expectations outlined in the audit plan.",
-                    explanation: "Reinforcing expectations outlined in the audit plan is not the appropriate response when nonconformance with the Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> impacts the overall scope or operation of the internal audit activity. "
+                    explanation: "Reinforcing expectations outlined in the audit plan is not the appropriate response when nonconformance with the Code of Ethics or the Standards impacts the overall scope or operation of the internal audit activity. "
                 },
                 {
                     id: 3,
                     text: "Senior management must reevaluate the qualifications and independence of the assessor(s).",
-                    explanation: "According to Attribute Standard 1310, Reporting on the Quality Assurance and Improvement Program, the qualifications and independence of the assessor(s) or assessment team, including potential conflicts of interest, should be disclosed to senior management and the board by the chief audit executive. But this is not the appropriate response when nonconformance with the Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> impacts the overall scope or operation of the internal audit activity."
+                    explanation: "According to Attribute Standard 1310, Reporting on the Quality Assurance and Improvement Program, the qualifications and independence of the assessor(s) or assessment team, including potential conflicts of interest, should be disclosed to senior management and the board by the chief audit executive. But this is not the appropriate response when nonconformance with the Code of Ethics or the Standards impacts the overall scope or operation of the internal audit activity."
                 },
                 {
                     id: 4,
                     text: "The chief audit executive must disclose the nonconformance and the impact to senior management and the board.",
-                    explanation: "Attribute Standard 1322, Disclosure on Nonconformance, states, &#8220;When nonconformance with the Code of Ethics or the <span style=\"font-style:italic;\" >Standards</span> impacts the overall scope or operation of the internal audit activity, the chief audit executive must disclose the nonconformance and the impact to senior management and the board.&#8221; Nonconformance of this type refers to the overall internal audit activity and not to specific engagements."
+                    explanation: "Attribute Standard 1322, Disclosure on Nonconformance, states, &#8220;When nonconformance with the Code of Ethics or the Standards impacts the overall scope or operation of the internal audit activity, the chief audit executive must disclose the nonconformance and the impact to senior management and the board.&#8221; Nonconformance of this type refers to the overall internal audit activity and not to specific engagements."
                 }
             ]
         },
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Reporting on Quality Assurance",
-            q: "The chief audit executive&#8217;s disclosure to senior management and the board regarding the QAIP should include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The chief audit executive&#8217;s disclosure to senior management and the board regarding the QAIP should include all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -8500,7 +8500,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Reporting on Quality Assurance",
-            q: "Corrective action plans may be provided to address recommendations from an external assessment of the internal audit activity. The chief audit executive&#8217;s responsibilities for these plans include<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Adding management action plans to the existing monitoring of progress related to internal audit engagement findings.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Verification that recommendations identified during the external assessment have been implemented is communicated to the board as part of the internal audit activity&#8217;s monitoring of progress.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Developing a quality assurance and improvement program (QAIP) that covers all aspects of the internal audit activity.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Recommendations to address areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span>.</li></ol>",
+            q: "Corrective action plans may be provided to address recommendations from an external assessment of the internal audit activity. The chief audit executive&#8217;s responsibilities for these plans include<ol style=\"list-style-type:decimal;line-height:1.2em;margin-top:0.5em; margin-bottom:0.5em;\"><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Adding management action plans to the existing monitoring of progress related to internal audit engagement findings.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Verification that recommendations identified during the external assessment have been implemented is communicated to the board as part of the internal audit activity&#8217;s monitoring of progress.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Developing a quality assurance and improvement program (QAIP) that covers all aspects of the internal audit activity.</li><li style=\"margin-bottom:0.3em;padding-left:0.5em;_margin-left:0.5em;_padding-left:0em;text-indent:-0.5em;\" >Recommendations to address areas that were not in conformance with the Standards.</li></ol>",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -8509,7 +8509,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "1 and 2 only.",
-                    explanation: "Corrective action plans also include recommendations to address areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "Corrective action plans also include recommendations to address areas that were not in conformance with the Standards."
                 },
                 {
                     id: 2,
@@ -8519,7 +8519,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "1, 2, and 4 only.",
-                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span> and (b) opportunities for improvement. The CAE may provide management action plans to address recommendations from the external assessment. The CAE also may consider (a) adding the recommendations and management action plans to the internal audit activity&#8217;s existing monitoring of progress related to internal audit engagement findings and (b) reporting on resolutions. Verification that recommendations identified during the external assessment have been implemented is communicated to the board either (a) as part of the internal audit activity&#8217;s monitoring of progress or (b) by following up separately through the next QAIP internal assessment."
+                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the Standards and (b) opportunities for improvement. The CAE may provide management action plans to address recommendations from the external assessment. The CAE also may consider (a) adding the recommendations and management action plans to the internal audit activity&#8217;s existing monitoring of progress related to internal audit engagement findings and (b) reporting on resolutions. Verification that recommendations identified during the external assessment have been implemented is communicated to the board either (a) as part of the internal audit activity&#8217;s monitoring of progress or (b) by following up separately through the next QAIP internal assessment."
                 },
                 {
                     id: 4,
@@ -8555,7 +8555,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "The chief audit executive.",
-                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span> and (b) opportunities for improvement. The CAE may provide management action plans to address recommendations from the external assessment."
+                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the Standards and (b) opportunities for improvement. The CAE may provide management action plans to address recommendations from the external assessment."
                 }
             ]
         },
@@ -8571,7 +8571,7 @@ let initialStore = {
                 {
                     id: 1,
                     text: "Verification that the recommendations have been implemented may be communicated to the board by following up separately through the next internal assessment.",
-                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span> and (b) opportunities for improvement. Verification that recommendations identified during the external assessment have been implemented is communicated to the board either (a) as part of the internal audit activity&#8217;s monitoring of progress or (b) by following up separately through the next QAIP internal assessment."
+                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the Standards and (b) opportunities for improvement. Verification that recommendations identified during the external assessment have been implemented is communicated to the board either (a) as part of the internal audit activity&#8217;s monitoring of progress or (b) by following up separately through the next QAIP internal assessment."
                 },
                 {
                     id: 2,
@@ -8580,8 +8580,8 @@ let initialStore = {
                 },
                 {
                     id: 3,
-                    text: "Indicating that the internal audit activity conforms with the <span style=\"font-style:italic;\" >Standards</span> is appropriate only if supported by the implementation of corrective action plans.",
-                    explanation: "Indicating that the internal audit activity conforms with the <span style=\"font-style:italic;\" >International Standards for the Professional Practice of Internal Auditing</span> is appropriate only if supported by the results of the quality assurance and improvement program, not by corrective action plans."
+                    text: "Indicating that the internal audit activity conforms with the Standards is appropriate only if supported by the implementation of corrective action plans.",
+                    explanation: "Indicating that the internal audit activity conforms with the International Standards for the Professional Practice of Internal Auditing is appropriate only if supported by the results of the quality assurance and improvement program, not by corrective action plans."
                 },
                 {
                     id: 4,
@@ -8617,7 +8617,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "The assessor provides action plans to senior management and the board to address deficiencies.",
-                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the <span style=\"font-style:italic;\" >Standards</span> and (b) opportunities for improvement. The CAE may provide management action plans to address the recommendations."
+                    explanation: "During an external assessment, the assessor may provide recommendations to address (a) areas that were not in conformance with the Standards and (b) opportunities for improvement. The CAE may provide management action plans to address the recommendations."
                 }
             ]
         },
@@ -8655,7 +8655,7 @@ let initialStore = {
         {
             General: "Independence, Objectivity, Proficiency, Care, and Quality",
             topicName: "Reporting on Quality Assurance",
-            q: "A rating scale may be used in an external assessment to show the degree of conformance with the <span style=\"font-style:italic;\" >Standards</span> by an internal audit activity. One scale consists of three ratings: generally conforms, partially conforms, and does not conform. &#8220;Partially conforms&#8221; most likely indicates that",
+            q: "A rating scale may be used in an external assessment to show the degree of conformance with the Standards by an internal audit activity. One scale consists of three ratings: generally conforms, partially conforms, and does not conform. &#8220;Partially conforms&#8221; most likely indicates that",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -8674,12 +8674,12 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Deficiencies do not preclude the internal audit activity from performing its responsibilities.",
-                    explanation: "&#8220;Partially conforms&#8221; indicates that deficiencies in practice are judged to deviate from the <span style=\"font-style:italic;\" >Standards</span>. But they do not preclude the internal audit activity from performing its responsibilities."
+                    explanation: "&#8220;Partially conforms&#8221; indicates that deficiencies in practice are judged to deviate from the Standards. But they do not preclude the internal audit activity from performing its responsibilities."
                 },
                 {
                     id: 4,
-                    text: "An internal audit activity has a charter, policies, and processes, and their execution and results conform with the <span style=\"font-style:italic;\" >Standards</span>.",
-                    explanation: "&#8220;Generally conforms&#8221; indicates that an internal audit activity has a charter, policies, and processes, and their execution and results conform with the <span style=\"font-style:italic;\" >Standards</span>."
+                    text: "An internal audit activity has a charter, policies, and processes, and their execution and results conform with the Standards.",
+                    explanation: "&#8220;Generally conforms&#8221; indicates that an internal audit activity has a charter, policies, and processes, and their execution and results conform with the Standards."
                 }
             ]
         },
@@ -8779,7 +8779,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement about the role of internal auditors in an organization&#8217;s ethical culture?",
+            q: "Which of the following is a false statement about the role of internal auditors in an organization&#8217;s ethical culture?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -8872,7 +8872,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a goal of corporate governance?",
+            q: "Which of the following is not a goal of corporate governance?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -9151,7 +9151,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following statements regarding corporate governance is <span style=\"font-weight:bold;\" >not</span> correct?",
+            q: "Which of the following statements regarding corporate governance is not correct?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -9554,7 +9554,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following statements regarding oversight as a component of governance is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements regarding oversight as a component of governance is false?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -9647,7 +9647,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following statements about organizational culture is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements about organizational culture is false?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -9957,7 +9957,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "The board of directors of a corporation is <span style=\"font-weight:bold;\" >not</span> responsible for",
+            q: "The board of directors of a corporation is not responsible for",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -10081,7 +10081,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >least</span> likely to influence corporate governance?",
+            q: "Which of the following is least likely to influence corporate governance?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -10112,7 +10112,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: " According to the <span style=\"font-style:italic;\" >Standards</span>, governance is",
+            q: " According to the Standards, governance is",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -10121,22 +10121,22 @@ let initialStore = {
                 {
                     id: 1,
                     text: "A process to identify, assess, manage, and control potential events or situations to provide reasonable assurance regarding the achievement of the organization&#8217;s objectives.",
-                    explanation: "This statement defines risk management according to the <span style=\"font-style:italic;\" >Standards</span>. "
+                    explanation: "This statement defines risk management according to the Standards. "
                 },
                 {
                     id: 2,
                     text: "The combination of processes and structures implemented by the board to inform, direct, manage, and monitor the activities of the organization toward the achievement of its objectives.",
-                    explanation: "Governance is defined in the <span style=\"font-style:italic;\" >Standards </span>as the &#8220;combination of processes and structures implemented by the board to inform, direct, manage, and monitor the activities of the organization toward the achievement of its objectives.&#8221; "
+                    explanation: "Governance is defined in the Standards as the &#8220;combination of processes and structures implemented by the board to inform, direct, manage, and monitor the activities of the organization toward the achievement of its objectives.&#8221; "
                 },
                 {
                     id: 3,
                     text: "The leadership, organizational structures, and processes that ensure that the enterprise&#8217;s information technology supports the organization&#8217;s strategies and objectives.",
-                    explanation: "This statement defines information technology governance according to the <span style=\"font-style:italic;\" >Standards</span>."
+                    explanation: "This statement defines information technology governance according to the Standards."
                 },
                 {
                     id: 4,
                     text: "The highest level governing body charged with the responsibility to direct and or oversee the organization&#8217;s activities and hold senior management accountable.",
-                    explanation: "The statement defines, in part, board according to the <span style=\"font-style:italic;\" >Standards</span>. "
+                    explanation: "The statement defines, in part, board according to the Standards. "
                 }
             ]
         },
@@ -10174,7 +10174,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Governance Principles",
-            q: "Which of the following is the <span style=\"font-weight:bold;\" >least</span> likely purpose of governance?",
+            q: "Which of the following is the least likely purpose of governance?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -10701,7 +10701,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Roles of Internal Auditors in Governance",
-            q: "Which of the following statements regarding governance is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements regarding governance is false?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -10715,7 +10715,7 @@ let initialStore = {
                 {
                     id: 2,
                     text: "Governance models generally treat governance as a process or a system that is static.",
-                    explanation: " Governance models generally treat governance as a process or a system that is not static. The approach in the <span style=\"font-style:italic;\" >Standards</span> emphasizes the board and its governance activities."
+                    explanation: " Governance models generally treat governance as a process or a system that is not static. The approach in the Standards emphasizes the board and its governance activities."
                 },
                 {
                     id: 3,
@@ -10751,7 +10751,7 @@ let initialStore = {
                 {
                     id: 3,
                     text: "Governance is essentially a static process.",
-                    explanation: " Governance models generally treat governance as a process or a system that is not static. The approach in the <span style=\"font-style:italic;\" >Standards</span> emphasizes the board and its governance activities."
+                    explanation: " Governance models generally treat governance as a process or a system that is not static. The approach in the Standards emphasizes the board and its governance activities."
                 },
                 {
                     id: 4,
@@ -10794,7 +10794,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Roles of Internal Auditors in Governance",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a role of the internal audit activity in best practice governance activities?",
+            q: "Which of the following is not a role of the internal audit activity in best practice governance activities?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -10856,7 +10856,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Corporate Social Responsibility (CSR)",
-            q: "Examples of CSR include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "Examples of CSR include all of the following except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -10887,7 +10887,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Corporate Social Responsibility (CSR)",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a benefit of implementing ISO 14000?",
+            q: "Which of the following is not a benefit of implementing ISO 14000?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -11042,7 +11042,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Corporate Social Responsibility (CSR)",
-            q: "Business ethics scholar Archie B. Carroll has identified four responsibilities an organization must fulfill to be called socially responsible. All of the following is one of these four responsibilities <span style=\"font-weight:bold;\" >except</span>",
+            q: "Business ethics scholar Archie B. Carroll has identified four responsibilities an organization must fulfill to be called socially responsible. All of the following is one of these four responsibilities except",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -11166,7 +11166,7 @@ let initialStore = {
         {
             General: "Governance",
             topicName: "Corporate Social Responsibility (CSR)",
-            q: "Which of the following is the <span style=\"font-weight:bold;\" >least</span> likely risk of failing to implement an effective CSR program?",
+            q: "Which of the following is the least likely risk of failing to implement an effective CSR program?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -11414,7 +11414,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> an activity undertaken as part of risk management?",
+            q: "Which of the following is not an activity undertaken as part of risk management?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -11445,7 +11445,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "In the risk management process, management&#8217;s view of the internal audit activity&#8217;s role is likely to be determined by all of the following factors <span style=\"font-weight:bold;\" >except</span>",
+            q: "In the risk management process, management&#8217;s view of the internal audit activity&#8217;s role is likely to be determined by all of the following factors except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -11662,7 +11662,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "An internal auditor plans to conduct an audit of the adequacy of controls over investments in new financial instruments. Which of the following would <span style=\"font-weight:bold;\" >not</span> be required as part of such an engagement?",
+            q: "An internal auditor plans to conduct an audit of the adequacy of controls over investments in new financial instruments. Which of the following would not be required as part of such an engagement?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -11786,7 +11786,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a responsibility of the chief audit executive?",
+            q: "Which of the following is not a responsibility of the chief audit executive?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -11879,7 +11879,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following statements regarding monitoring risk responses is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements regarding monitoring risk responses is false?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -12065,7 +12065,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following statements about risk management is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements about risk management is false?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12096,7 +12096,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement concerning risk management?",
+            q: "Which of the following is a false statement concerning risk management?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12189,7 +12189,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement concerning risk management? Risk management processes",
+            q: "Which of the following is a false statement concerning risk management? Risk management processes",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12251,7 +12251,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Senior management has identified the following risk areas within the organization:<table cellspacing=\"0\" style=\"margin-bottom:2mm;margin-top:2mm;\" ><colgroup><col style=\"width:10.3em;\" /><col style=\"width:15.15em;\" /></colgroup><tr><td style=\"vertical-align:top;\" ><div >Derivatives trading:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact high</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Materials acquisition:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood low, Impact low</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Petty cash:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact low</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Bond issue:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood low, Impact high</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Transportation fleet:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact medium</div></td></tr></table>Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement in terms of overall risk exposure of the areas named?",
+            q: "Senior management has identified the following risk areas within the organization:<table cellspacing=\"0\" style=\"margin-bottom:2mm;margin-top:2mm;\" ><colgroup><col style=\"width:10.3em;\" /><col style=\"width:15.15em;\" /></colgroup><tr><td style=\"vertical-align:top;\" ><div >Derivatives trading:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact high</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Materials acquisition:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood low, Impact low</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Petty cash:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact low</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Bond issue:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood low, Impact high</div></td></tr><tr><td style=\"vertical-align:top;\" ><div >Transportation fleet:</div></td><td style=\"vertical-align:top;\" ><div >Likelihood high, Impact medium</div></td></tr></table>Which of the following is a false statement in terms of overall risk exposure of the areas named?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -12406,7 +12406,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "An internal auditor plans to audit the adequacy of controls over credit approval. Which of the following is <span style=\"font-weight:bold;\" >not</span> a required procedure in such an engagement?",
+            q: "An internal auditor plans to audit the adequacy of controls over credit approval. Which of the following is not a required procedure in such an engagement?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -12437,7 +12437,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "The internal auditor should evaluate the adequacy of controls over the safeguarding of assets from all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The internal auditor should evaluate the adequacy of controls over the safeguarding of assets from all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12530,7 +12530,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "Risk Management Processes",
-            q: "Which of the following are roles that the internal audit activity should <span style=\"font-weight:bold;\" >not</span> undertake since they would threaten its independence and objectivity?",
+            q: "Which of the following are roles that the internal audit activity should not undertake since they would threaten its independence and objectivity?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12840,7 +12840,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Management considers risk appetite for all of the following reasons <span style=\"font-weight:bold;\" >except</span>",
+            q: "Management considers risk appetite for all of the following reasons except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -12871,7 +12871,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Each of the following is a limitation of enterprise risk management (ERM), <span style=\"font-weight:bold;\" >except</span>",
+            q: "Each of the following is a limitation of enterprise risk management (ERM), except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -13150,7 +13150,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "The internal auditor who works in enterprise risk management (ERM) may perform each of the following activities <span style=\"font-weight:bold;\" >except</span>",
+            q: "The internal auditor who works in enterprise risk management (ERM) may perform each of the following activities except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -13305,7 +13305,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Which of the following statements regarding the chief risk officer is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements regarding the chief risk officer is false?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -13460,7 +13460,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "According to COSO, the benefits of enterprise risk management (ERM) include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "According to COSO, the benefits of enterprise risk management (ERM) include all of the following except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -13615,7 +13615,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a function of senior management with regard to enterprise risk management (ERM)?",
+            q: "Which of the following is not a function of senior management with regard to enterprise risk management (ERM)?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -14080,7 +14080,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a principle related to the review and revision component of the COSO ERM framework? ",
+            q: "Which of the following is not a principle related to the review and revision component of the COSO ERM framework? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -14111,7 +14111,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "According to the COSO ERM framework, which of the following is <span style=\"font-weight:bold;\" >not</span> a characteristic of business objectives? ",
+            q: "According to the COSO ERM framework, which of the following is not a characteristic of business objectives? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -14142,7 +14142,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a principle related to the information, communication, and reporting component of the COSO ERM framework?",
+            q: "Which of the following is not a principle related to the information, communication, and reporting component of the COSO ERM framework?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -14204,7 +14204,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "COSO Framework -- Enterprise Risk Management (ERM)",
-            q: "Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement about risk responses?",
+            q: "Which of the following is a false statement about risk responses?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -14483,7 +14483,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "ISO 31000 Risk Management Framework",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a component of the risk management framework of the ISO&#160;31000 model?",
+            q: "Which of the following is not a component of the risk management framework of the ISO&#160;31000 model?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -14514,7 +14514,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "ISO 31000 Risk Management Framework",
-            q: "The ISO 31000 model describes three approaches to providing assurance on risk management processes. Which of the following is <span style=\"font-weight:bold;\" >not</span> one of these approaches?",
+            q: "The ISO 31000 model describes three approaches to providing assurance on risk management processes. Which of the following is not one of these approaches?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -14576,7 +14576,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "ISO 31000 Risk Management Framework",
-            q: "According to ISO 31000, which of the following is <span style=\"font-weight:bold;\" >not</span> a principle of risk management? ",
+            q: "According to ISO 31000, which of the following is not a principle of risk management? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -14638,7 +14638,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "ISO 31000 Risk Management Framework",
-            q: "According to ISO 31000, the design of a risk management framework involves all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "According to ISO 31000, the design of a risk management framework involves all of the following except",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -14669,7 +14669,7 @@ let initialStore = {
         {
             General: "Risk Management",
             topicName: "ISO 31000 Risk Management Framework",
-            q: "The elements of the ISO 31000 risk management process include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The elements of the ISO 31000 risk management process include all of the following except",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -14793,7 +14793,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Overview of Control",
-            q: "According to The IIA Glossary appended to the <span style=\"font-style:italic;\" >Standards</span>, which of the following are most directly designed to ensure that risks are contained?",
+            q: "According to The IIA Glossary appended to the Standards, which of the following are most directly designed to ensure that risks are contained?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -14917,7 +14917,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Overview of Control",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> implied by the definition of control?",
+            q: "Which of the following is not implied by the definition of control?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -15816,7 +15816,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Types of Controls",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a type of control? ",
+            q: "Which of the following is not a type of control? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -16312,7 +16312,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Types of Controls",
-            q: "An auditor is planning an audit of a company&#8217;s recently implemented electronic data interchange (EDI) system for purchasing and billing. Which of the following controls over the accuracy of raw-material purchases would be <span style=\"font-weight:bold;\" >least</span> important in this environment?",
+            q: "An auditor is planning an audit of a company&#8217;s recently implemented electronic data interchange (EDI) system for purchasing and billing. Which of the following controls over the accuracy of raw-material purchases would be least important in this environment?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -16436,7 +16436,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Types of Controls",
-            q: " Which of the following is <span style=\"font-weight:bold;\" >not</span> an objective of application controls?",
+            q: " Which of the following is not an objective of application controls?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -16746,7 +16746,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "In regard to The IIA&#8217;s <span style=\"font-style:italic;\" >Electronic Systems Assurance and Control</span> study, which of the following is <span style=\"font-weight:bold;\" >not</span> a business assurance objective?",
+            q: "In regard to The IIA&#8217;s <span style=\"font-style:italic;\" >Electronic Systems Assurance and Control</span> study, which of the following is not a business assurance objective?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -16777,7 +16777,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "Which of the following statements is <span style=\"font-weight:bold;\" >not</span> accurate with regard to soft controls?",
+            q: "Which of the following statements is not accurate with regard to soft controls?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -16808,7 +16808,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a component of the CoCo model?",
+            q: "Which of the following is not a component of the CoCo model?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -17180,7 +17180,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "A company&#8217;s new time clock process requires hourly employees to select an identification number and then choose the clock-in or clock-out button. A video camera captures an image of the employee using the system. Which of the following exposures can the new system be expected to change the <span style=\"font-weight:bold;\" >least</span>? ",
+            q: "A company&#8217;s new time clock process requires hourly employees to select an identification number and then choose the clock-in or clock-out button. A video camera captures an image of the employee using the system. Which of the following exposures can the new system be expected to change the least? ",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -17273,7 +17273,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "Each of the following is a method to evaluate internal controls based on the framework set by the Committee of Sponsoring Organizations (COSO), <span style=\"font-weight:bold;\" >except</span>",
+            q: "Each of the following is a method to evaluate internal controls based on the framework set by the Committee of Sponsoring Organizations (COSO), except",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -17335,7 +17335,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "Each of the following statements is correct regarding the existence and implementation of codes of conduct <span style=\"font-weight:bold;\" >except</span>",
+            q: "Each of the following statements is correct regarding the existence and implementation of codes of conduct except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -17552,7 +17552,7 @@ let initialStore = {
         {
             General: " Controls: Types and&#160;Frameworks",
             topicName: "Control Frameworks",
-            q: "Which of the following is a <span style=\"font-weight:bold;\" >false</span> statement about the COBIT 2019 framework?",
+            q: "Which of the following is a false statement about the COBIT 2019 framework?",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -18213,7 +18213,7 @@ let initialStore = {
         {
             General: "Controls: Application",
             topicName: "Accounting Cycles and Associated Controls",
-            q: "Internal control should follow certain basic principles to achieve its objectives. One of these principles is the segregation of functions. Which one of the following examples does <span style=\"font-weight:bold;\" >not</span> violate the principle of segregation of functions?",
+            q: "Internal control should follow certain basic principles to achieve its objectives. One of these principles is the segregation of functions. Which one of the following examples does not violate the principle of segregation of functions?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -18621,7 +18621,7 @@ let initialStore = {
         {
             General: "Controls: Application",
             topicName: "Accounting Cycles and Associated Controls",
-            q: "One characteristic of an effective internal control structure is the proper segregation of duties. The combination of responsibilities that would <span style=\"font-weight:bold;\" >not</span> be considered a violation of segregation of functional responsibilities is",
+            q: "One characteristic of an effective internal control structure is the proper segregation of duties. The combination of responsibilities that would not be considered a violation of segregation of functional responsibilities is",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -19369,7 +19369,7 @@ let initialStore = {
         {
             General: "Controls: Application",
             topicName: "Accounting Cycles and Associated Controls",
-            q: "Organizational independence in the processing of payroll is achieved by segregation of functions that are built into the system. Which one of the following functional segregations is <span style=\"font-weight:bold;\" >not</span> required for internal control purposes?",
+            q: "Organizational independence in the processing of payroll is achieved by segregation of functions that are built into the system. Which one of the following functional segregations is not required for internal control purposes?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -19437,7 +19437,7 @@ let initialStore = {
         {
             General: "Controls: Application",
             topicName: "Accounting Cycles and Associated Controls",
-            q: "Organizational independence is required in the processing of customers&#8217; orders in order to maintain an internal control structure. Which one of the following situations is <span style=\"font-weight:bold;\" >not </span>a proper segregation of duties in the processing of orders from customers?",
+            q: "Organizational independence is required in the processing of customers&#8217; orders in order to maintain an internal control structure. Which one of the following situations is not a proper segregation of duties in the processing of orders from customers?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -20117,7 +20117,7 @@ let initialStore = {
         {
             General: "Controls: Application",
             topicName: "Management Controls",
-            q: "An internal auditor is reviewing the organization&#8217;s policy regarding investing in financial derivatives. The internal auditor normally expects to find all of the following in the policy <span style=\"font-weight:bold;\" >except</span>",
+            q: "An internal auditor is reviewing the organization&#8217;s policy regarding investing in financial derivatives. The internal auditor normally expects to find all of the following in the policy except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -20700,7 +20700,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "Internal auditors should have knowledge about factors (red flags) that have proven to be associated with management fraud. Which of the following factors have generally <span style=\"font-weight:bold;\" >not</span> been associated with management fraud?",
+            q: "Internal auditors should have knowledge about factors (red flags) that have proven to be associated with management fraud. Which of the following factors have generally not been associated with management fraud?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -21293,7 +21293,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "Internal auditors have been advised to consider red flags to determine whether management is involved in a fraud. Which of the following does <span style=\"font-weight:bold;\" >not</span> represent a difficulty in using the red flags as fraud indicators?",
+            q: "Internal auditors have been advised to consider red flags to determine whether management is involved in a fraud. Which of the following does not represent a difficulty in using the red flags as fraud indicators?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -21676,7 +21676,7 @@ let initialStore = {
         {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
-            q: "Which is <span style=\"font-weight:bold;\" >not</span> a symptom of fraud as described in this situation?",
+            q: "Which is not a symptom of fraud as described in this situation?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -21746,7 +21746,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "In this situation, typical indicators of the suspected fraud include all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "In this situation, typical indicators of the suspected fraud include all of the following except",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -21885,7 +21885,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "An internal auditor is investigating the performance of a division with an unusually large increase in sales, gross margin, and profit. Which of the following indicators is <span style=\"font-weight:bold;\" >least</span> likely to indicate the possibility of sales-related fraud in the division?",
+            q: "An internal auditor is investigating the performance of a division with an unusually large increase in sales, gross margin, and profit. Which of the following indicators is least likely to indicate the possibility of sales-related fraud in the division?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -21955,7 +21955,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "Red flags are conditions that indicate a higher likelihood of fraud. Which of the following is <span style=\"font-weight:bold;\" >not</span> considered a red flag?",
+            q: "Red flags are conditions that indicate a higher likelihood of fraud. Which of the following is not considered a red flag?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -22059,7 +22059,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "An upcoming internal audit engagement involves the possibility of fraud. The <span style=\"font-style:italic;\" >Standards</span> require the internal auditors to possess which of the following skills?",
+            q: "An upcoming internal audit engagement involves the possibility of fraud. The Standards require the internal auditors to possess which of the following skills?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -22068,13 +22068,13 @@ let initialStore = {
                 {
                     id: 1,
                     text: "To hold a current Certified Fraud Examiner certification.",
-                    explanation: "The <span style=\"font-style:italic;\" >Standards</span> do not require an internal auditor to hold a Certified Fraud Examiner certification to serve on an engagement in which possibility of fraud exists."
+                    explanation: "The Standards do not require an internal auditor to hold a Certified Fraud Examiner certification to serve on an engagement in which possibility of fraud exists."
                 },
 
                 {
                     id: 2,
                     text: "To hold a current Certified Internal Auditor certification.",
-                    explanation: " The <span style=\"font-style:italic;\" >Standards</span> do not require an internal auditor to hold a Certified Internal Auditor certification to serve on an engagement in which possibility of fraud exists."
+                    explanation: " The Standards do not require an internal auditor to hold a Certified Internal Auditor certification to serve on an engagement in which possibility of fraud exists."
                 },
 
                 {
@@ -22086,7 +22086,7 @@ let initialStore = {
                 {
                     id: 4,
                     text: "To possess technical expertise in a particular area of fraud examination, such as computer hacking. ",
-                    explanation: " The <span style=\"font-style:italic;\" >Standards</span> do not require an internal auditor to have technical expertise in a particular area of fraud examination to serve on an engagement in which a possibility of fraud exists. "
+                    explanation: " The Standards do not require an internal auditor to have technical expertise in a particular area of fraud examination to serve on an engagement in which a possibility of fraud exists. "
                 }
             ]
         },
@@ -22234,7 +22234,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Risks and Types",
 
-            q: "Which of the following statements about check kiting is <span style=\"font-weight:bold;\" >false</span>?",
+            q: "Which of the following statements about check kiting is false?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -22408,7 +22408,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "The internal auditors&#8217; responsibility regarding fraud includes all of the following <span style=\"font-weight:bold;\" >except</span>",
+            q: "The internal auditors&#8217; responsibility regarding fraud includes all of the following except",
             AnswerVisible: false,
             correctAnswer: 2,
             marked: false,
@@ -22583,7 +22583,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "Which of the following controls is the <span style=\"font-weight:bold;\" >least</span> effective in preventing a fraud conducted by sending purchase orders to bogus vendors?",
+            q: "Which of the following controls is the least effective in preventing a fraud conducted by sending purchase orders to bogus vendors?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -22618,7 +22618,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "A potential problem for a manufacturer is that purchasing agents may take kickbacks or receive gifts from vendors in exchange for favorable contracts. Which of the following is the <span style=\"font-weight:bold;\" >least</span> effective in preventing this problem?",
+            q: "A potential problem for a manufacturer is that purchasing agents may take kickbacks or receive gifts from vendors in exchange for favorable contracts. Which of the following is the least effective in preventing this problem?",
             AnswerVisible: false,
             correctAnswer: 3,
             marked: false,
@@ -22653,7 +22653,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "Which of the following controls would have been <span style=\"font-weight:bold;\" >least</span> likely to prevent or detect the fraud described?",
+            q: "Which of the following controls would have been least likely to prevent or detect the fraud described?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -22898,7 +22898,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "Internal auditors and management have become increasingly concerned about computer fraud. Which of the following control procedures is <span style=\"font-weight:bold;\" >least</span> important in preventing computer fraud?",
+            q: "Internal auditors and management have become increasingly concerned about computer fraud. Which of the following control procedures is least important in preventing computer fraud?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
@@ -23072,7 +23072,7 @@ let initialStore = {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Controls",
 
-            q: "Which of the following is <span style=\"font-weight:bold;\" >not</span> a responsibility of internal auditors regarding fraud prevention, deterrence, and detection?",
+            q: "Which of the following is not a responsibility of internal auditors regarding fraud prevention, deterrence, and detection?",
             AnswerVisible: false,
             correctAnswer: 1,
             marked: false,
@@ -23253,7 +23253,7 @@ let initialStore = {
             answer: [
                 {
                     id: 1,
-                    text: "The <span style=\"font-style:italic;\" >Standards</span>.",
+                    text: "The Standards.",
                     explanation: "The internal auditor has authority only to recommend an investigation."
                 },
 
@@ -23419,7 +23419,7 @@ let initialStore = {
         {
             General: "Fraud Risks and Controls",
             topicName: "Fraud -- Investigation",
-            q: "If an internal auditor is interviewing three individuals, one of whom is suspected of committing a fraud, which of the following is the <span style=\"font-weight:bold;\" >least</span> effective approach?",
+            q: "If an internal auditor is interviewing three individuals, one of whom is suspected of committing a fraud, which of the following is the least effective approach?",
             AnswerVisible: false,
             correctAnswer: 4,
             marked: false,
