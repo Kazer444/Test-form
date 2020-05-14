@@ -33,6 +33,8 @@ debugger
             {props => {
 
                 return <Form className={c.form}  >
+                    <div className={c.general}> {d.General}</div>
+                    <div className={c.topicName}> {d.topicName}</div>
                     <div className={c.question}>{d.q}</div>
 
                     <div className={c.answer}>
