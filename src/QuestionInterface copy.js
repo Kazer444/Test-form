@@ -33,7 +33,7 @@ debugger
             {props => {
 
                 return <Form className={c.form}  >
-                    <div className={c.question}>{d.id}.{d.q}</div>
+                    <div className={c.question}>{d.q}</div>
 
                     <div className={c.answer}>
                         <Field
