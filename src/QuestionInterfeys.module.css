@@ -3,7 +3,7 @@
 }
 
 .wrong{
-    margin-left:300px;
+    margin-left:200px;
     display:block;
     font-size: x-large;
     color: red;
@@ -11,7 +11,7 @@
 }
 
 .true{
-    margin-left:300px;
+    margin-left:200px;
     display:block;
     font-weight: bold;
     font-size: x-large;
@@ -20,18 +20,29 @@
 
 .answer{
     font-size: x-large;
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .question{
     font-size: xx-large;
     font-weight: bold;
-    margin-top: 150px;;
-    margin-left:250px;
+    margin-top: 50px;;
+    margin-left:150px;
 }
 .select{
     margin-top: 15px;
     font-size: x-large;
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
+
+.previous{
+    margin-top: 15px;
+    font-size: x-large;
+margin-left: 200px;}
+
+.next{
+    margin-top: 15px;
+    font-size: x-large;
+    margin-left: 20px; 
+}

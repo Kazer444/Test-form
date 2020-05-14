@@ -93,8 +93,8 @@ debugger
     return <div>
         <div>{a[props.state.slider.index]}</div>
         <div>
-            <button onClick={() => { return props.slider('previous') }} >Previous </button>
-            <button onClick={() => { return props.slider('next') }}>Next </button>
+            <button className={c.previous} onClick={() => { return props.slider('previous') }} >Previous </button>
+            <button className={c.next} onClick={() => { return props.slider('next') }}>Next </button>
         </div>  
         {/* <input id='a' type='text' placeholder='Select the question'/>
         <button onClick={() => { return props.slider('selected',) }} >Select </button> */}
