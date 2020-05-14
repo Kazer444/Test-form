@@ -1,0 +1,13 @@
+.wait{
+    display:none;
+}
+
+.wrong{
+    display:block;
+    background-color: red;
+}
+
+.true{
+    display:block;
+    background-color: green;
+}
