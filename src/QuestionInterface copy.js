@@ -32,10 +32,10 @@ debugger
 
             {props => {
 
-                return <Form  >
-                    <div>{d.id}.{d.q}</div>
+                return <Form className={c.form}  >
+                    <div className={c.question}>{d.id}.{d.q}</div>
 
-                    <div>
+                    <div className={c.answer}>
                         <Field
                             id={props.values.answered}
                             type='radio'
@@ -46,7 +46,7 @@ debugger
                         <label htmlFor='answer1'>{d.answer[0].text}</label>
                     </div>
 
-                    <div>
+                    <div className={c.answer}>
                         <Field
                             id={props.values.answered}
                             type='radio'
@@ -57,7 +57,7 @@ debugger
                         <label htmlFor='answer2'>{d.answer[1].text}</label>
                     </div>
 
-                    <div>
+                    <div className={c.answer}>
                         <Field
                             id={props.values.answered}
                             type='radio'
@@ -67,7 +67,7 @@ debugger
                         <label htmlFor='answer3'>{d.answer[2].text}</label>
                     </div>
 
-                    <div>
+                    <div className={c.answer}>
                         <Field
                             id={props.values.answered}
                             type='radio'
@@ -78,10 +78,10 @@ debugger
                     </div>
 
                     <div>
-                        <button id={d.id} type='submit' >Select</button>
+                        <button className={c.select} id={d.id} type='submit' >Select</button>
                     </div>
                     {d.AnswerVisible ? <div key={d.id} className={d.Result ? c.true : c.wrong}>
-            {d.Result ? <div>true</div>  : <div>false{d.explanation}</div>}
+            {d.Result ? <div>Правильно, умничка, гений, вперееееед, порвем этот экзамен!!!</div>  : <div>Dubikseeeen buba,yaxşı fikirləş</div>}
                     </div> : null}
 
 

@@ -23780,7 +23780,7 @@ export let TestBankReducer = (state = initialStore, action) => {
                 main: state.main.map(d => {
                     if (action.questionId === d.id) {
                         if (action.AnswerId === d.correctAnswer) { return { ...d, Result: true, AnswerVisible: true } }
-                        else {
+                        else if(action.AnswerId!=null) {
                             return { ...d, Result: false, AnswerVisible: true }
                         }
                     }

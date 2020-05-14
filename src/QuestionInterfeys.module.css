@@ -3,11 +3,35 @@
 }
 
 .wrong{
+    margin-left:300px;
     display:block;
-    background-color: red;
+    font-size: x-large;
+    color: red;
+    font-weight: bold;
 }
 
 .true{
+    margin-left:300px;
     display:block;
-    background-color: green;
+    font-weight: bold;
+    font-size: x-large;
+    color: green;
 }
+
+.answer{
+    font-size: x-large;
+    margin-left: 300px;
+}
+
+.question{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-top: 150px;;
+    margin-left:250px;
+}
+.select{
+    margin-top: 15px;
+    font-size: x-large;
+    margin-left: 300px;
+}
+
