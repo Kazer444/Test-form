@@ -23787,6 +23787,12 @@ export let TestBankReducer = (state = initialStore, action) => {
                     return d
                 })
             }
+            case 'general':return {...state,
+                main:state.main.filter(d=>{
+                    if(action.general===1){
+                        return d.general==='Foundations of Internal Auditing'
+                    }})
+            }
 
         default: return state
     }
