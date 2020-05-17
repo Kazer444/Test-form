@@ -1,15 +1,15 @@
-
 import { TestBankReducer } from "./appElements/Reducers/TestBankReducer";
 import thunkMiddleware from 'redux-thunk'
 import {createStore, combineReducers, applyMiddleware, compose} from "redux";
 import sliderReducer from "./appElements/Reducers/sliderReducer";
+import TestBankReducer2 from "./appElements/Reducers/TestBankReducer2";
 
 
 
 
 
 let reducers=combineReducers({
-    testBank:TestBankReducer,
+    testBank:TestBankReducer2,
     slider:sliderReducer
 });
 

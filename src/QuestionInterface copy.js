@@ -1,11 +1,11 @@
-import React, { useEffect } from 'react'
+import React, { useState } from 'react'
 import { Formik, Form, Field } from 'formik'
 import c from './QuestionInterfeys.module.css'
 
 
 let QuestionInterface = (props) => {
 
-
+const [state, setstate] = useState('')
 
     let a = props.state.testBank.main.map(d =>
 
@@ -24,46 +24,40 @@ let QuestionInterface = (props) => {
         }}
 
             onSubmit={(fields) => {
-                debugger
+               
                 return props.question(d.id, fields.answered),
                     console.log(d.id, fields.answered)
-
-
             }}
         >
 
             {props => {
                 return <div>
 
-
-
-
                     <Form className={c.form}  >
-                       
-                        <Field as="select" name="general" id={d.id} className={c.general} onChange={()=>{return console.log(props)}} >
-                            <option  value={d.general} >Foundations of Internal Auditing</option>
-                            <option  value="two">Independence, Objectivity, Proficiency, Care, and Quality</option>
-                            <option value="three">Governance</option>
-                            <option value="four">Risk Management</option>
-                            <option value="four">Controls: Types and Frameworks</option>
-                            <option value="four">Controls: Application</option>
-                            <option value="four">Fraud Risks and Controls</option>
+
+                        {/* <Field as="select" name="general" id={d.id} className={c.general} onChange={(e) => { return console.log(e.target.value) }}>
+                            <option value="1" >Foundations of Internal Auditing</option>
+                            <option value="2">Independence, Objectivity, Proficiency, Care, and Quality</option>
+                            <option value="3">Governance</option>
+                            <option value="4">Risk Management</option>
+                            <option value="5">Controls: Types and Frameworks</option>
+                            <option value="6">Controls: Application</option>
+                            <option value="7">Fraud Risks and Controls</option>
                         </Field>
-                       
                         <div>
                             <Field as="select" name="topicName" id={d.id} className={c.topicName}>
-                                <option value={d.general}>Applicable Guidance</option>
-                                <option value="two">Codes of Ethical Conduct for Professionals</option>
-                                <option value="three">Internal Audit Ethics -- Introduction and Principles</option>
-                                <option value="four">Internal Audit Ethics -- Integrity</option>
-                                <option value="four">Internal Audit Ethics -- Objectivity</option>
-                                <option value="four">Internal Audit Ethics -- Confidentiality</option>
-                                <option value="four">Internal Audit Ethics -- Competency</option>
-                                <option value="four">Internal Audit Charter</option>
+                                <option checked={props.values.answered === 1} value={d.general}>Applicable Guidance</option>
+                                <option checked={props.values.answered === 2} value="two">Codes of Ethical Conduct for Professionals</option>
+                                <option checked={props.values.answered === 3} value="three">Internal Audit Ethics -- Introduction and Principles</option>
+                                <option checked={props.values.answered === 4} value="four">Internal Audit Ethics -- Integrity</option>
+                                <option checked={props.values.answered === 5} value="four">Internal Audit Ethics -- Objectivity</option>
+                                <option checked={props.values.answered === 6} value="four">Internal Audit Ethics -- Confidentiality</option>
+                                <option checked={props.values.answered === 7} value="four">Internal Audit Ethics -- Competency</option>
+                                <option checked={props.values.answered === 8} value="four">Internal Audit Charter</option>
                             </Field>
-                        </div>
-                       
-                        <div className={c.question}>{d.q}</div>
+                        </div> */}
+
+                    <div className={c.question}>{d.id}.{d.q}</div>
 
                         <div className={c.answer}>
                             <Field
@@ -121,10 +115,12 @@ let QuestionInterface = (props) => {
         </Formik>)
 
     return <div>
-        <div>{a[props.state.slider.index]}</div>
+        <div>{a[props.state.slider.index-1]}</div>
         <div>
             <button className={c.previous} onClick={() => { return props.slider('previous') }} >Previous </button>
             <button className={c.next} onClick={() => { return props.slider('next') }}>Next </button>
+           <div><input  type="number" placeholder='question №' onChange={e=>setstate(e.currentTarget.value)}/></div>
+           <div><button onClick={()=>{return props.numSelector(state)}}>Select</button></div> 
         </div>
 
     </div>

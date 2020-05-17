@@ -2,7 +2,7 @@
 
 
 let initialState={
-    index:0
+    index:1
 }
 
 
@@ -18,10 +18,15 @@ let sliderReducer=(state=initialState,action,id)=>{
                return {...state,
                 index:state.index-1}
            }
-           else if (action.action==='selected') 
-           return {...state,index:id}
-        default:return state
+       
+        case 'numSelector':
+            {return {...state,
+            index:action.action}}
+            
+            default:return state
     }
+   
+        
 }
 
 export default sliderReducer
