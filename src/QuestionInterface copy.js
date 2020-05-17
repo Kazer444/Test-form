@@ -115,12 +115,12 @@ const [state, setstate] = useState('')
         </Formik>)
 
     return <div>
+          <div className={c.numSelector}><input  type="number" placeholder='question №' onChange={e=>setstate(e.currentTarget.value)}/></div>
+          <div><button onClick={()=>{return props.numSelector(state)}}>Select</button></div> 
         <div>{a[props.state.slider.index-1]}</div>
         <div>
             <button className={c.previous} onClick={() => { return props.slider('previous') }} >Previous </button>
             <button className={c.next} onClick={() => { return props.slider('next') }}>Next </button>
-           <div><input  type="number" placeholder='question №' onChange={e=>setstate(e.currentTarget.value)}/></div>
-           <div><button onClick={()=>{return props.numSelector(state)}}>Select</button></div> 
         </div>
 
     </div>

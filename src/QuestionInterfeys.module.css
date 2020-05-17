@@ -4,7 +4,7 @@
 
 .wrong{
     display:block;
-    font-size: x-large;
+    font-size: large;
     color: red;
     font-weight: bold;
 }
@@ -13,38 +13,38 @@
     
     display:block;
     font-weight: bold;
-    font-size: x-large;
+    font-size: large;
     color: green;
 }
 
 .answer{
     margin-right: 100px;
-    font-size: x-large;
+    font-size: medium;
 
 }
 
 .question{
   
-    font-size: xx-large;
+    font-size: large;
     font-weight: bold;
     margin-top: 50px;;
   
 }
 .select{
     margin-top: 15px;
-    font-size: x-large;
+    font-size: large;
 
 }
 
 
 .previous{
     margin-top: 15px;
-    font-size: x-large;
+    font-size: large;
     }
 
 .next{
     margin-top: 15px;
-    font-size: x-large;
+    font-size: large;
 
 }
 
@@ -57,4 +57,9 @@
     margin-top: 10px;
     font-size: large;
 
+}
+
+.numSelector{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
