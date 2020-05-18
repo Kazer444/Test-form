@@ -3,13 +3,14 @@ import thunkMiddleware from 'redux-thunk'
 import {createStore, combineReducers, applyMiddleware, compose} from "redux";
 import sliderReducer from "./appElements/Reducers/sliderReducer";
 import TestBankReducer2 from "./appElements/Reducers/TestBankReducer2";
+import TestBankReducer3 from "./appElements/Reducers/TestBankReducer3";
 
 
 
 
 
 let reducers=combineReducers({
-    testBank:TestBankReducer2,
+    testBank:TestBankReducer3,
     slider:sliderReducer
 });
 

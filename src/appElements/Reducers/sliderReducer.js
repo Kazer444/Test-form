@@ -7,7 +7,7 @@ let initialState={
 
 
 let sliderReducer=(state=initialState,action,id)=>{
-debugger
+
     switch(action.type){
         case 'slide':
            if( action.action==='next'&&state.index<=8972){

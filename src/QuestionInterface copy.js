@@ -4,7 +4,7 @@ import c from './QuestionInterfeys.module.css'
 
 
 let QuestionInterface = (props) => {
-
+debugger
 const [state, setstate] = useState('')
 
     let a = props.state.testBank.main.map(d =>
@@ -13,14 +13,7 @@ const [state, setstate] = useState('')
         <Formik initialValues={{
             general: d.General,
             id: props.state.slider.index,
-            questionId: d.id,
-            question: d.q,
-            answer1: d.answer[0].text,
-            answer2: d.answer[1].text,
-            answer3: d.answer[2].text,
-            answer4: d.answer[3].text,
-            correct: d.Correct,
-            result: d.result,
+ 
         }}
 
             onSubmit={(fields) => {
